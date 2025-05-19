@@ -19,6 +19,14 @@ const numberOfLatestPostsToShow = 3;
 <p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="blog.njk">the archive</a>.</p>
 {% endif %}
 
+<h2>Browse by Tag</h2>
+<ul class="tag-list">
+{% for tag in collections | getKeys | filterTagList | sortAlphabetically %}
+	{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a></li>
+{% endfor %}
+</ul>
+
 {# List every content page in the project #}
 {#
 <ul>

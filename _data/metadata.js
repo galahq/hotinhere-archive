@@ -1,10 +1,10 @@
 export default {
-	title: "Eleventy Base Blog v9",
-	url: "https://example.com/",
+	title: "It's Hot in Here",
+	url: "hotinhere.us",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "The 'It's Hot in Here' show archives, environmenta and sustainability news, views, and grooves on WCBN FM 88.3.",
 	author: {
-		name: "Your Name Here",
+		name: "Rebecca Hardin",
 		email: "youremailaddress@example.com",
 		url: "https://example.com/about-me/"
 	}

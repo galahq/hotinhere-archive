@@ -1,0 +1,11 @@
+---
+title: "A Soundtrack for Complex Systems"
+date: 2016-08-12
+coverImage: "IMG_6752.jpg"
+---
+
+[Loren Demerath](http://ldemerath.wixsite.com/home) is a Professor of Sociology at Centenary College of Louisiana. With the help professors from Chemistry, Computer Sciences, Economics, Philosophy, and English, Demerath recently taught a course entitled: [Explaining the Emergence of Order: the Universe, Life, Consciousness, and Society](https://docs.google.com/document/d/1BbjVCQgJfNzSnc7EvDJwKt82kKQiX2k2mEb0PlxR1OI/edit?usp=sharing) to introduce students to the study of complexity across disciplines. Here at the University of Michigan check out the [Center for the Study of Complex Systems.](https://lsa.umich.edu/cscs) 
+
+In his book, [Explaining Culture: The Social Pursuit of Subjective Order](https://www.amazon.com/Explaining-Culture-Social-Pursuit-Subjective/dp/073911638X/ref=mt_hardcover?_encoding=UTF8&me=), Demerath describes how culture is a self-organizing phenomenon that develops according to principles of information processing. He has also used those principles with computer scientist [Mark Goadrich](http://mark.goadrich.com/) to create [an agent-based simulation](http://mark.goadrich.com/meaningfulness2/meaningfulness2.html) of the emergence of social order. Demerath is now working on a book entitled, Good Energy: Explaining the Emergence of Order and Virtue, that describes how contributing to naturally evolving orders is inherently fulfilling.
+
+How do such orders require us to transmit to one another information about suffering, struggle, environmental damage and emotional priorities? From dustbowl farming to the feeling of heartbreak, answers come through songs as wide ranging as "You are my Sunshine" (penned in Shreveport) and "The Lady is a Tramp." Listen to Loren's daughter Rafaela sing "Just Ask," which she heard recently in Austin performed live  by the group Lake Street Dive, out of Boston. They started in 2004 with "free country" music (think free-jazz) but recently signed with Nonesuch to release _Side Pony_. Take a listen to the [Jackson 5 cover](https://m.youtube.com/watch?v=6EPwRdVg5Ug) which Loren mentioned on air as an example of what complexity theorists call "novelty."  We just call it hot.

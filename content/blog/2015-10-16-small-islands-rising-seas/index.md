@@ -1,0 +1,41 @@
+---
+title: "Small Islands, Rising Seas"
+date: 2015-10-16
+tags: 
+  - "climate-change"
+  - "environmental-justice"
+  - "ocean"
+coverImage: "South_Tarawa_from_the_air.jpg"
+---
+
+This week’s show begins a three part series on the topic of climate change. The first show in the set discusses the vulnerability of small islands. The second will consider cities as places that also reflect unjust risk distribution and vulnerability (whether through heat islands, or other phenomena). The third will consider climate adaptation strategies of Michigan's cherry and grape producers.
+
+Today's island tour was conceived initially and researched by a team of UM Students including Miriam Butler, Matt Edelstein, Franny Melampy, Justin Petersmark, and Ella Tutlis . It comes to you through the voices of Dr. Rebecca Hardin (also known as Rebecca in the studio) Ed Waisanen, a first year SNRE masters student, and Harry Rice, a senior in Program in the Environment. There were quite a few good laughs in the segment, many stemming from the infamous teal shorts worn by Harry (see below) on such a cold fall day—islands ho! <!--more-->
+
+\[caption id="attachment\_528" align="alignright" width="169"\][![](images/20151016_131630-169x300.jpg)](http://www.hotinhere.us/wp-content/uploads/2015/10/20151016_131630.jpg) The in-studio production team\[/caption\]
+
+Our first stop on our "island hop" is the Marshall Islands. Lying in the west-central Pacific Ocean, the islands are at an average elevation of 7 feet above sea level, and there are only 66 square miles of land. With a population of over 60,000, there are serious implications from the increasing number of typhoons occurring yearly in the area. Along with the rising sea levels, there is a great deal of sickness stemming from the U.S. storing Nuclear Weapons in this area during WWII, and there is currently a [lawsuit](http://www.lcnp.org/RMI/) stemming from this issue, attempting to effect change and reverse what our host the very hot Ed termed "internalization of expendability" that comes from living in a place seen as a periphery by more powerful markets and governments. One powerful voice from that periphery is that of  the Marshallese poet [Kathy Jetnil Kijiner,](https://www.youtube.com/watch?v=DJuRjy9k7GA)  recorded during her address to the UN summit on Climate Change in New York back in September, 2014.  Her words shout in solidarity with the Carteret islanders off the coast of Papua New Guinea, about whom there is a wonderful [film](https://www.youtube.com/watch?v=qwkw2aVohnQ), Sun Come Up. That film catalyzed the student interest in these topics that has culminated in this show. [Dr. Bilal Butt](https://bilalmbutt.wordpress.com/blog/) emailed us during the show to say how impressed he was by the resources these students assembled,  and to suggest a few more on the terribly unjust history of the Marshall Islands, including Eric Schlosser's "[Command and Control](https://books.google.com/books/about/Command_and_Control.html?id=H0-CJckES44C&printsec=frontcover&source=kp_read_button&hl=en#v=onepage&q&f=false)", the work of [Barbara Rose Johnston](http://www.centerforpoliticalecology.org/researchers/bjohnston.html/)e, and the documentary film "[Radio Bikini](http://robertstoneproductions.com/film/radio-bikini/)."
+
+Next  in our tour come the Kiribati Islands,  also in the Western Pacific. Here the highest point on the islands is only three meters above sea level, and it has a greater population density than Bangladesh, with 5,000 people per square kilometer. Due to the great deal of water coming in, the people living there have begun to use simple buildings for nearly every purpose, and there has been a great deal of trouble in getting rid of waste and growing food in the face of increasing salinity of the island's water supply. These things have been compound islanders' struggle to maintain their fisheries in the face of [overfish](http://www.newyorker.com/tech/elements/president-tong-and-his-disappearing-islands)ing by China, Japan, and the U.S.  Levels of corruption in the government are high, and officials are widely known to be paid off with SUVs and other lavish gifts.
+
+There is only one obvious option for the Kiribati who seek to migrate, and it is Fiji. Yet many in Fiji have expressed their distaste with for immigration  to their lands at all.  Thus some Kiribati must try to move even further away; one we mention attempted to apply for amnesty in New Zealand, but was not allowed to stay because climate change was deemed an acceptable reason for the conferral of formal asylum status. Yet, the people on the islands face storms as large as Hurricane Sandy 5 times a year or more, and their popular culture attests to the deep sadness they feel in leaving their homeland, for instance the song of the Frigate, below:
+
+\[embed\]https://www.youtube.com/watch?v=xOcMLWVNIms\[/embed\]
+
+Our final stop on the Island tour was in the island of Vanuatu, an island off the coast of Australia. Our host Ed almost volunteered for the Peace Corps in Vanuatu with his wife, and has often tried to imagine how the two of them might have dealt with living through the earthquakes, tsunamis, and volcanic activity in the area that caused a wave of fatalities just last year. These islands have also been faced with challenges surrounding poor governance, including recent corruption scandals. Yet their culture remains vibrant; we played  a particular form of music from Vanuatu, the "water games" music made by women in streams (which balances that made by young men of the Marshall Islands when they use sticks as percussive instruments;  gender equity track by track. Why not?) Her is the Jebua Stick Dance from the Marshall Islands:
+
+\[embed\]https://open.spotify.com/track/458X7AxMOjl9RIS1DVdbg5\[/embed\]
+
+And here are the "Jeux D'eaux":
+
+\[embed\]https://www.youtube.com/watch?v=vUUVEvffzSI\[/embed\]
+
+While discussing the problems on these islands, we must also consider that some, perforce, become crucibles for innovative and effective disaster response. Dr. Emma Tompkins addressed the relief efforts that have happened in Cuba and the Cayman Islands in our April 6, 2009 broadcast,  noting that such response systems can be taken as standards to which other countries should aspire (and to which they don't often measure up...witness the Hurricane Katrina response in New Orleans...).  Dr. Tompkins is a native of the Cayman islands, now affiliated with [Leeds University](http://www.see.leeds.ac.uk/people/e.tompkins) and the [University of Southampton](http://www.southampton.ac.uk/geography/about/staff/elt1m10.page). These universities are both in the UK which, she reminded us archly, "is after all a small island, itself...perhaps a few years hence you'll have Brits pouring into your country as climate refugees!"
+
+To close out this hour we reflect on powerful combinations of arts and science about climate change happening on the campus of UCLA Center for Intercultural Performance faculty member Dr. Mitoma, and her series  Water is Rising which brought artists and activists from [various Pacific Islands](http://www.wacd.ucla.edu/cip/about/meet-staff) to perform and reflect on challenges their societies are facing. Cultural and Political  alliances are emerging apace around climate based challenges, including the [Climate Vulnerability Forum](http://www.thecvf.org/).
+
+Do they span the distance we will travel to get from here to next week's show on cities and climate justice? Then we hope to talk further with [Dr. Glen Macdonald](http://www.gmmacdonald.com/) about his recent work on coastal marshes that are so hemmed in with urban development as to be ecologically and adaptationally like islands. We are also working on a visit from [Dr. Tony Reames](http://thegreenscholar.com/) of SNRE, who lives in Detroit, where he is finding new ways to apply his research on urban heat islands and unequal access to weatherproofing and energy efficiency between lower and higher income communities. From islands to coasts to the "cities" of a place like Los Angeles, we'll keep it hot.
+
+As you leave the islands to face the first frost warnings of this fall here in Michigan let us leave you with a lilting melody: Isa Lei.
+
+\[embed\]https://www.youtube.com/watch?v=0LUbijnngSo\[/embed\]
