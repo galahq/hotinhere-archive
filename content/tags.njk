@@ -1,6 +1,14 @@
-<h1>Tags</h1>
+---js
+const eleventyNavigation = {
+	key: "Browse by Topic",
+	order: 2
+};
+---
+<h1>Browse Shows by Topic</h1>
 
-<ul>
+<p>Click on any topic below to see all shows related to that subject.</p>
+
+<ul class="tag-list">
 {% for tag in collections | getKeys | filterTagList | sortAlphabetically %}
 	{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
 	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a></li>

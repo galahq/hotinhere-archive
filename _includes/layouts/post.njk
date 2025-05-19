@@ -1,28 +1,71 @@
 ---
 layout: layouts/base.njk
 ---
-{# Only include the syntax highlighter CSS on blog posts, included with the CSS per-page bundle #}
-<style>{% include "node_modules/prismjs/themes/prism-okaidia.css" %}</style>
-<style>{% include "css/prism-diff.css" %}</style>
+
+{# Only include the syntax highlighter CSS on blog posts, included with the CSS
+per-page bundle #}
+<style>
+  {% include "node_modules/prismjs/themes/prism-okaidia.css" %}
+</style>
+<style>
+  {% include "css/prism-diff.css" %}
+</style>
 <h1>{{ title }}</h1>
-
+{% if coverImage %}
+<div>
+  <img
+    src="images/{{ coverImage }}"
+    alt="Cover image for {{ title }}"
+    style="max-width: 100%; height: auto"
+  />
+</div>
+{% endif %}
 <ul class="post-metadata">
-	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
-	{%- for tag in tags | filterTagList %}
-	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
-	{%- endfor %}
+  <li>
+    <time datetime="{{ page.date | htmlDateString }}"
+      >{{ page.date | readableDate }}</time
+    >
+  </li>
+  {%- for tag in tags | filterTagList %} {%- set tagUrl %}/tags/{{ tag | slugify
+  }}/{% endset %}
+  <li>
+    <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last
+    %}, {% endif %}
+  </li>
+  {%- endfor %}
 </ul>
 
-{{ content | safe }}
-
-{%- if collections.posts %}
-{%- set previousPost = collections.posts | getPreviousCollectionItem %}
-{%- set nextPost = collections.posts | getNextCollectionItem %}
-{%- if nextPost or previousPost %}
+{% if entryId %}
+<div>
+  <iframe
+    id="kaltura_player"
+    src="https://cdnapisec.kaltura.com/p/1038472/embedPlaykitJs/uiconf_id/54883762?iframeembed=true&amp;entry_id={{ entryId }}&amp;config%5Bprovider%5D=%7B%22widgetId%22%3A%221_whji9cyz%22%7D&amp;config%5Bplayback%5D=%7B%22startTime%22%3A0%7D"
+    style="width: 600px; height: 340px; border: 0"
+    allowfullscreen
+    webkitallowfullscreen
+    mozAllowFullScreen
+    allow="autoplay *; fullscreen *; encrypted-media *"
+    sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation"
+    title="{{ title }}"
+  ></iframe>
+</div>
+{% endif %} 
+{{ content | safe }} 
+{%- if collections.posts %} 
+{%- set
+previousPost = collections.posts | getPreviousCollectionItem %} {%- set nextPost
+= collections.posts | getNextCollectionItem %} {%- if nextPost or previousPost
+%}
 <ul class="links-nextprev">
-	{%- if previousPost %}<li class="links-nextprev-prev">← Previous<br> <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
-	{%- if nextPost %}<li class="links-nextprev-next">Next →<br><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></li>{% endif %}
+  {%- if previousPost %}
+  <li class="links-nextprev-prev">
+    ← Previous<br />
+    <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>
+  </li>
+  {% endif %} {%- if nextPost %}
+  <li class="links-nextprev-next">
+    Next →<br /><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
+  </li>
+  {% endif %}
 </ul>
-{%- endif %}
-{%- endif %}
+{%- endif %} {%- endif %}

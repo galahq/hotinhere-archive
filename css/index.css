@@ -209,6 +209,9 @@ header {
 	text-decoration: none;
 }
 
+#nav-title {
+	color: white;
+}
 /* Nav */
 .nav {
 	display: flex;

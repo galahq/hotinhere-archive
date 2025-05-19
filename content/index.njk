@@ -6,32 +6,37 @@ const eleventyNavigation = {
 
 const numberOfLatestPostsToShow = 3;
 ---
-{% set postsCount = collections.posts | length %}
-{% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+
+{# {% set postsCount = collections.posts | length %} {% set latestPostsCount =
+postsCount | min(numberOfLatestPostsToShow) %}
+<h1>
+  Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}
+</h1>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
-{% set postslistCounter = postsCount %}
-{% include "postslist.njk" %}
+{% set postslistCounter = postsCount %} {% include "postslist.njk" %} {% set
+morePosts = postsCount - numberOfLatestPostsToShow %} {% if morePosts > 0 %}
+<p>
+  {{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in
+  <a href="blog.njk">the archive</a>.
+</p>
+{% endif %} #}
 
-{% set morePosts = postsCount - numberOfLatestPostsToShow %}
-{% if morePosts > 0 %}
-<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="blog.njk">the archive</a>.</p>
-{% endif %}
+<img
+  src="/img/hotinhere-poster.jpg"
+  alt="It's Hot In Here - Environmental news, views, and grooves"
+  style="width: 100%; height: auto"
+/>
 
-<h2>Browse by Tag</h2>
-<ul class="tag-list">
-{% for tag in collections | getKeys | filterTagList | sortAlphabetically %}
-	{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a></li>
-{% endfor %}
-</ul>
 
-{# List every content page in the project #}
-{#
+{# List every content page in the project #} {#
+<p>Browse all shows by <a href="/tags/">topic</a>.</p>
+
 <ul>
-	{%- for entry in collections.all %}
-	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
-	{%- endfor %}
+  {%- for entry in collections.all %}
+  <li>
+    <a href="{{ entry.url }}"><code>{{ entry.url }}</code></a>
+  </li>
+  {%- endfor %}
 </ul>
 #}

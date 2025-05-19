@@ -1,5 +1,4 @@
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
-import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
@@ -20,8 +19,7 @@ export default async function(eleventyConfig) {
 	eleventyConfig
 		.addPassthroughCopy({
 			"./public/": "/"
-		})
-		.addPassthroughCopy("./content/feed/pretty-atom-feed.xsl");
+		});
 
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
@@ -56,31 +54,6 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(HtmlBasePlugin);
 	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
 
-	eleventyConfig.addPlugin(feedPlugin, {
-		type: "atom", // or "rss", "json"
-		outputPath: "/feed/feed.xml",
-		stylesheet: "pretty-atom-feed.xsl",
-		templateData: {
-			eleventyNavigation: {
-				key: "Feed",
-				order: 4
-			}
-		},
-		collection: {
-			name: "posts",
-			limit: 10,
-		},
-		metadata: {
-			language: "en",
-			title: "It's Hot in Here",
-			subtitle: "The 'It's Hot in Here' show archives",
-			base: "https://hotinhere.us/",
-			author: {
-				name: "Various Authors"
-			}
-		}
-	});
-
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
 		// Output formats for each image.
@@ -106,7 +79,7 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(pluginFilters);
 
 	eleventyConfig.addPlugin(IdAttributePlugin, {
-		// by default we use Eleventy’s built-in `slugify` filter:
+		// by default we use Eleventy's built-in `slugify` filter:
 		// slugify: eleventyConfig.getFilter("slugify"),
 		// selector: "h1,h2,h3,h4,h5,h6", // default
 	});
