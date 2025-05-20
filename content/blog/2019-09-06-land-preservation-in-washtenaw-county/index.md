@@ -7,6 +7,7 @@ tags:
   - "land-preservation"
   - "washtenaw-county"
 coverImage: "micah-hallahan-IVxOeAWU_7o-unsplash-1.jpg"
+entryId: '1_caxskqtx'
 ---
 
 Cities and townships in Washtenaw County support a variety of progressive, publicly-funded efforts to protect local lands. They do that either by preserving those lands as they are or reserving them for agricultural use. Land protection consultant [Barry Lonik](https://legacylandconservancy.org/beginning-present-history-legacy-land-conservancy-barry-lonik/), Washtenaw County Local Foods Coordinator [Jae Gerhart](https://www.canr.msu.edu/people/jae_gerhart) of Michigan State University's Extension Center, and farmer and educator [Shannon Brines](http://brines.net) joined host Bella Isaacs to talk about how that process works, how land preservation relates to the local food movement, and why it's important to consider the ecological and social impacts of urban density versus urban sprawl.<!--more-->

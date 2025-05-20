@@ -7,6 +7,7 @@ tags:
   - "invasive-species"
   - "local"
 coverImage: "Garlic-Mustard-D.-Dister.jpg"
+entryId: '1_u9jieze1'
 ---
 
 [The Stewardship Network](https://stewardshipnetwork.org) is a nonprofit dedicated to empowering  individuals and organizations who are committed to working on conservation issues at the local level. They also help connect communities across the regions they serve in order to facilitate their collaboration. Lisa Brush is the Network's executive director, Robert Luzynski serves as network administrator, and Jason Frenzel is co-cordinator of the Huron Arbor Cluster, the Ann Arbor region's [Collaborative Conservation Community](https://stewardshipnetwork.org/communities/).

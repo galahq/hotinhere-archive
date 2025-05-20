@@ -6,6 +6,7 @@ tags:
   - "food-policy"
   - "local-food-systems"
 coverImage: "Screen-Shot-2019-05-27-at-8.37.36-PM.png"
+entryId: '1_bgumwzrg'
 ---
 
 Established in 2009, the [Detroit Food Policy Council](https://detroitfoodpolicycouncil.net) is a 21-member   "education, advocacy, and policy organization" and advisory body to the Detroit City Council. It's primary mission is to ensure "the development and maintenance of a sustainable and equitable food system" in order to create a "food-secure City of Detroit." Unlike food policy councils in other cities, which are typically arms of the local government, Detroit's is a nonprofit that was born out of community activism and organization spearheaded by the [Detroit Black Community Food Security Network.](https://www.dbcfsn.org)

@@ -6,6 +6,7 @@ tags:
   - "food-justice"
   - "university-of-michigan"
 coverImage: "EQ-Garden.png"
+entryId: '1_2rwqaslv'
 ---
 
 This week, the five co-chairs of the upcoming [Community of Food, Society, and Justice Conference](https://lsa.umich.edu/rc/programs-and-community-engagement/2019-conference---the-community-of-food--society---justice-.html) joined host Bella Isaacs to talk about what attendees can expect from that conference, which will take place on Friday, October 18 and feature keynote speaker [Tracie McMillan](http://traciemcmillan.com/), lunch prepared with produce from the campus farm, and four panels that will "explore the multiple definitions of soil, seeds, farmers, and food." Those interested are also encouraged to attend a talk given by [environmental artist Lauren Bon](https://stamps.umich.edu/stamps/detail/lauren-bon) on Thursday, October 17 as part of the Penny Stamps Speaker Series. Click [here](https://lsa.umich.edu/rc/programs-and-community-engagement/2019-conference---the-community-of-food--society---justice-/conference-schedule.html) to find the conference's full schedule.<!--more-->

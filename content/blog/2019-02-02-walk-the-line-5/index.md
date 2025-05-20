@@ -13,6 +13,7 @@ tags:
   - "policy"
   - "water"
 coverImage: "Mackinac.jpg"
+entryId: '1_6loec7ad'
 ---
 
 The two hand-shaped maps of the Upper and Lower Peninsulas of Michigan cup the hydrological corridor that links Lake Michigan and Lake Huron. The whip-sawed waters of this passageway contain some of the mightiest currents in the Great Lakes, which intermittently thrash around a volume of water ten-times that which flows over Niagara Falls. The powerful Straits of Mackinac reach a 3.5-mile distance at their widest width and a 295-foot range at their deepest depth.

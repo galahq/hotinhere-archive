@@ -5,6 +5,7 @@ tags:
   - "doris-duke-conservation-scholars"
   - "environmental-justice"
 coverImage: "Samara-Almonte.jpg"
+entryId: '1_98v49af4'
 ---
 
 "Think twice before buying your feminist T-shirt from Forever 21."

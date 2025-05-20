@@ -14,6 +14,7 @@ tags:
   - "climatechange"
   - "michigan"
 coverImage: "image_asset_31311.jpg"
+entryId: '1_5ku4v5pu'
 ---
 
 In August 2015, 21 plaintiffs, ranging from 8-19 years old at the initial hearing, filed a landmark lawsuit against the United States as well as many specific members of the Federal Government. In short, their claim was that the U.S. Government had knowingly violated the rights of the plaintiffs and future generations, by encouraging, subsidizing, and permitting activities relating to carbon and other greenhouse gas emissions. The consequences of these actions will infringe on the plaintiffs constitutional rights to life and liberty. They further asserted that, since most of their generation does not yet have the right to vote, they had been robbed of their future before they even had a say.

@@ -6,6 +6,7 @@ tags:
   - "food"
   - "local-food"
 coverImage: "fbgraphic-LFS1.jpg"
+entryId: '1_hw7xtxdj'
 ---
 
 Shannon Brines and Eliot Jackson stopped by the studio to chat with regular hosts Ed Waisanen and Bella Isaacs and shamelessly plug the Local Food Summit, which — wouldn't you know it — is [happening this Saturday, February 16](http://localfoodsummit.org/).

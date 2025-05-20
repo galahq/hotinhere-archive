@@ -5,6 +5,7 @@ tags:
   - "local-food-systems"
   - "sustainability"
 coverImage: "Growing-Hope-1.png"
+entryId: '1_m3e8usyf'
 ---
 
 Earlier this month, regular host Bella Isaacs met up with the executive and assistant directors of [Growing Hope,](https://growinghope.net) Cynthia VanRenterghem and Erica Bloom. Their nonprofit focus on four interconnected areas of the local food system in Ypsilanti: farms and gardens, youth and schools, farmers markets, and food entrepreneurship. The three talk about the roots of Growing Hope (get it), how this organization seeks to empower food producers and consumers in Ypsilanti, and how you can get involved.

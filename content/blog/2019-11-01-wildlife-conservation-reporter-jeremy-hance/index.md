@@ -7,6 +7,7 @@ tags:
   - "rhinos"
   - "wildlife-conservation"
 coverImage: "IMG_3931.jpg"
+entryId: '1_zux5u3uw'
 ---
 
 Reporter [Jeremy Hance](https://jeremyhance.com/about/) was one of the original staff writers of [Mongabay](https://mongabay.org), a non-profit conservation and environmental news site that "aims to raise awareness about social and environmental issues related to forests and other ecosystems." Hance now writes a monthly column for Mongabay called ["Saving Life on Earth: Words on the Wild"](https://news.mongabay.com/series/saving-life-on-earth-words-on-the-wild/) in addition to his freelance reporting. His feature ["The great rhino U-turn,"](https://news.mongabay.com/2018/09/the-great-rhino-u-turn/) the third installment in a four-part series on the Sumatran rhino, has been published in the [2019 Best American Science and Nature Writing](https://www.indiebound.org/book/9781328519009) anthology. <!--more-->

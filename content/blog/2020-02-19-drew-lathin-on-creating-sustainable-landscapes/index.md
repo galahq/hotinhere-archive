@@ -9,6 +9,7 @@ tags:
   - "sustainablelandscapes"
   - "michigan"
 coverImage: "Screen-Shot-2020-02-19-at-11.51.50-AM.png"
+entryId: '1_7fv2kioq'
 ---
 
 You’ve probably heard the phrase “native plants” before, but what does that really mean? How long does a plant need to be around to be considered “native”? Drew Lathin, a life-long gardener and founder of Creating Sustainable Landscapes LLC was kind enough to join us in the studio to talk to us about the benefits and importance of native plants and provide some recommendations for local Michiganders who want to set up a more sustainable landscape in their own yards. 

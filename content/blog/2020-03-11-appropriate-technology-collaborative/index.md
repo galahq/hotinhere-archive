@@ -9,6 +9,7 @@ tags:
   - "detroit"
   - "guatemala"
 coverImage: "Screen-Shot-2020-03-11-at-11.27.49-AM.png"
+entryId: '1_tiqrsje9'
 ---
 
 Ever heard of the triple bottom line: people, profits, and planet? Ever wondered what a business model that priorities all three would look like, if it’s even possible? Look no further than Appropriate Technology Collaborative and the future of equitable, sustainable development. John Barrie, a “recovering architect” and co-founder of [Appropriate Technology Collaborative](https://www.apptechdesign.org/about-atc-2) (ATC), and Monika Goforth, co-founder and executive director of ATC, join us once again in the It’s Hot in Here studio to talk about the future of solar energy and bottom-up, women-led business models. 

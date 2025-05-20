@@ -13,6 +13,7 @@ tags:
   - "art"
   - "culture"
 coverImage: "IMG_2153-scaled.jpg"
+entryId: '1_ru1flfw5'
 ---
 
 > **“None of us are well, until all of us are well.”** 

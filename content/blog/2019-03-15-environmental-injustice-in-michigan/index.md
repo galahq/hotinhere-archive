@@ -6,6 +6,7 @@ tags:
   - "environmental-justice"
   - "water-affordability"
 coverImage: "8035396680_57ba34db9e_o.jpg"
+entryId: '1_t1250ucv'
 ---
 
 “One of the worst things you can do to a population is take away their ecology.”

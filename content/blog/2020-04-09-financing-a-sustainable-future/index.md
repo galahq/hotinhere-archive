@@ -18,6 +18,7 @@ tags:
   - "thirdeconomy"
   - "michigan"
 coverImage: "David-Blood-Generation-Investment-Management.jpg"
+entryId: '1_suanqosd'
 ---
 
 In the coming years, climate finance and sustainable investing will likely be some of the most transformed sectors in the world. [David Blood](https://www.wri.org/profile/david-blood), co-founder and Senior Partner of [Generation Investment Management](https://www.generationim.com/) (GIM), joins the University of Michigan community to share his expertise and 30+ years of experience on the cutting edge of sustainable finance.

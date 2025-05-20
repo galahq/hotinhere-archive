@@ -6,6 +6,7 @@ tags:
   - "local-politics"
   - "state-politics"
 coverImage: "Lame-Duck-Photo.png"
+entryId: '1_pkdxa0re'
 ---
 
 This week on the show, regular hosts Bella Isaacs, Aurora Aparicio, and Ed Waisanen break down how the ongoing government shutdown is affecting the environment, legislation that passed during former Governor Rick Snyder's final days in office, and new Governor Gretchen Whitmer's first couple executive actions. They also do a hair check in, figure out where exactly the term "lame duck" comes from, and talk about their most treasured gifts from the holiday season.

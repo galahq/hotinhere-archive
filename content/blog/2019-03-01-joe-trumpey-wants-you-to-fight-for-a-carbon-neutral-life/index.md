@@ -6,6 +6,7 @@ tags:
   - "joe-trumpey"
   - "uofm"
 coverImage: "carlos-grury-santos-534439-unsplash.jpg"
+entryId: '1_46eml0x9'
 ---
 
 Joe Trumpey is a farmer, sustainable designer, science illustrator, and educator. He's also the director of the University of Michigan's Sustainable Living Experience and he teaches in the STAMPS School of Art and Design as well as the School for Environment and Sustainability (SEAS) and the Program in the Environment (PitE). Is that enough to convince you he's legit? 

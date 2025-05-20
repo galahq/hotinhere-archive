@@ -7,6 +7,7 @@ tags:
   - "featured"
   - "local-food"
 coverImage: "Screen-Shot-2019-07-12-at-3.31.20-PM.png"
+entryId: '1_0iiwk0ne'
 ---
 
 Each year, according to the United States Attorney's Office for the Eastern District of Michigan, more than [13,000 Michigan residents](https://www.justice.gov/usao-edmi/hiring-returning-citizens-makes-good-business-sense) return to their communities after being incarcerated.  But when they get home, those residents often face a series of challenges as they navigate re-entering society as well as finding work and housing with a criminal record.

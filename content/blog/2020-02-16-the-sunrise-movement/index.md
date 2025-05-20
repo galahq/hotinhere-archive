@@ -12,6 +12,7 @@ tags:
   - "youthactivism"
   - "youthmovement"
 coverImage: "0_B-jsQS4gaVHwjiHj-1.jpg"
+entryId: '1_cbw9mmhq'
 ---
 
 > **"The status quo has failed us."**

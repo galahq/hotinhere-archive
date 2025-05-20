@@ -11,6 +11,7 @@ tags:
   - "foodwaste"
   - "michigan"
 coverImage: "Screen-Shot-2020-02-20-at-5.31.32-PM.png"
+entryId: '1_dfrofpn1'
 ---
 
 [Elders Climate Action](https://www.eldersclimateaction.org/), a ‘spinoff’ of [Elders Action Network](https://eldersaction.org/), is an organization focused on promoting the environmental activism of older folks, making sustainable behaviors more accessible, increasing the visibility of elders working in the environmental field, and providing a space for elders to organize. The organization is growing rapidly with 9 chapters around the country and several more in the process of being recognized. Founded in 2017, the Ann Arbor Chapter of ECA has focused on educating, mobilizing, and engaging with local elders and their families on several fronts. 

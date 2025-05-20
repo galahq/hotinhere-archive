@@ -7,6 +7,7 @@ tags:
   - "public-transit"
   - "transportation-infrastructure"
 coverImage: "getDowntown-Photo.png"
+entryId: '1_8ij8o9kz'
 ---
 
 This week's show opens with the voices of commuters who participated in Bike to Work Day on May 17. They tell us why they bike, how they feel about biking in Ann Arbor, and what personal messages they have for the drivers they share the road with. Bike to Work Day is part the [2019 Commuter Challenge](https://www.getdowntown.org/events/commuter-challenge-2019), which is sponsored by [getDowntown](https://www.getdowntown.org), a program of [TheRide](http://www.theride.org) that finds ways to encourage employers and employees who work in downtown Ann Arbor to explore different ways— like biking or walking or carpooling — of going about their daily commutes.

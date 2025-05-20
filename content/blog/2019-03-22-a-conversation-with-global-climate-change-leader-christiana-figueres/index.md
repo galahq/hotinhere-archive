@@ -5,6 +5,7 @@ tags:
   - "christiana-figueres"
   - "climate-change"
 coverImage: "figeures.jpg"
+entryId: '1_1n9npenw'
 ---
 
 Last week, we were honored to speak with one of the world’s most influential leaders on climate change, Christiana Figueres. Figueres steered the Conference of Parties to the historic Paris Agreement in 2015 and served as Executive Secretary of the United Nations Convention on Climate Change from 2010-2016. She’s kind of a big deal. (You can read more about her incredible work on her [website](https://christianafigueres.com/#/).)

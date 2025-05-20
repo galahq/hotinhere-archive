@@ -21,7 +21,7 @@ tags:
   - "michigan"
   - "um"
 coverImage: "Screen-Shot-2020-09-11-at-4.01.40-PM.png"
-entryId: "1_8avr7pb8"
+entryId: '1_8avr7pb8'
 ---
 
 As a changing climate and urbanizing population continually alter the landscape of the US, many of us are asking the question: what is the future of food production? Increasingly, answers to that question include some aspect of urban agriculture, especially in Detroit, a globalized recognized hub of urban agriculture. To learn a bit more about this side of food production, It’s Hot In Here hosts sat down (virtually) to speak with [Naim Edwards](https://www.canr.msu.edu/people/naim-edwards), the director of [Michigan State University (MSU) Detroit Partnership in Food, Learning and Innovation.](https://www.canr.msu.edu/detroitpartnership/) 

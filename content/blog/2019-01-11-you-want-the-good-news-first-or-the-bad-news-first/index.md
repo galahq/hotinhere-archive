@@ -2,6 +2,7 @@
 title: "You Want the Good News or the Bad News First?"
 date: 2019-01-11
 coverImage: "20190111_130428-1.jpg"
+entryId: '1_qd6uotx2'
 ---
 
 Whatever your answer, we decided to start with a bit of good news. As we finished off the second week of the new year, the Hot In Here crew covered all things environmental, from the impacts of fast fashion trends to nuns karate-chopping incandescent light bulbs (full disclosure, this week's tangents were sponsored by Ed's empty stomach).

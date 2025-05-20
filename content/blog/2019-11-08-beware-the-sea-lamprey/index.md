@@ -5,6 +5,7 @@ tags:
   - "great-lakes"
   - "invasive-species"
 coverImage: "Screen-Shot-2019-12-16-at-8.42.29-PM.png"
+entryId: '1_0rqqq2i3'
 ---
 
 _"Nightmare. But also, cool." - Host Bella Isaacs on the sea lamprey._

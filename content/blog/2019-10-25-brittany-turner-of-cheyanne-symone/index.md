@@ -6,6 +6,7 @@ tags:
   - "indigenous-knowledge"
   - "sustainability"
 coverImage: "Screen-Shot-2019-11-03-at-11.40.16-PM.png"
+entryId: '1_7qrgaobl'
 ---
 
 _Editor's note: We had some brief technical difficulties during the first minute of the show._ 

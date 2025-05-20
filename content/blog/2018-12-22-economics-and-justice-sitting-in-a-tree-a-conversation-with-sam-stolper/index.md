@@ -8,6 +8,7 @@ tags:
   - "interview"
   - "policy"
 coverImage: "Sam-Stolper-EJ-interview.png"
+entryId: '1_x3e2nt14'
 ---
 
 Many Americans hear the word "economics" and quite literally start to talk business: bulls and bears, stocks and bonds, revenues and profits—you know the drill. According to the [Merriam-Webster dictionary](https://www.merriam-webster.com/dictionary/economics), though, economics is "a social science concerned chiefly with description and analysis of the production, distribution, and consumption of goods and services." For Dr. Sam Stolper, this meaning rings especially true when it comes to distribution. Sam is an assistant professor at the University of Michigan's School for Environment and Sustainability (SEAS), where he researches and lectures on the intersecting issues of economics and environmental justice, particularly as they apply to how the impacts of energy use and production are distributed. <!--more-->

@@ -11,6 +11,7 @@ tags:
   - "solid-waste-plan"
   - "swp"
 coverImage: "IMG_20200121_092447-scaled.jpg"
+entryId: '1_rlh5rr1y'
 ---
 
 [Recycle Ann Arbor](https://www.recycleannarbor.org/) (RAA) is known for its curbside recycling in Ann Arbor, among its other services (the Reuse Center, the Drop-off Station, the Recovery Yard for construction waste, and a myriad of education and zero-waste events). It started Michigan's first curbside recycling program, which was also one of the first such programs in the nation. Director of Strategy Bryan Weinert talks with hosts Isabelle Brogna and Prachiti Dhamankar about how RAA is adapting to the changing landscape of recycling in Ann Arbor.
