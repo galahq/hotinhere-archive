@@ -4,7 +4,7 @@
 - Blog posts embed a player from Mi-Video (Kaltura) and use an `articleID` in the front matter of each post to source the appropriate audio file.
 - The archive was converted from a backup of the old Wordpress site and runs on [11ty](https://www.11ty.dev/), [using eleventy-base-blog](https://github.com/11ty/eleventy-base-blog) v9.
 - Older episodes are available at https://archive.org/details/SNREHotInHere and appear as embeds on their individual posts. (These still need to be fixed!)
-- Even older episodes (2008-2010) are archived here and are not currently on the site: https://archive.org/details/hotinhere
+- Even older episodes (2008-2010) are archived here: https://archive.org/details/hotinhere
 
 ---
 
