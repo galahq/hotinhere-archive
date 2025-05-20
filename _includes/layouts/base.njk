@@ -35,24 +35,83 @@
 
 		{#- Add the heading-anchors web component to the JavaScript bundle #}
 		<script type="module">{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}</script>
+
+		<!-- Pagefind search -->
+		<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+		<script src="/pagefind/pagefind-ui.js"></script>
+		<script>
+			document.addEventListener('DOMContentLoaded', function() {
+				var searchEl = document.getElementById('search');
+				if (searchEl) {
+					try {
+						new PagefindUI({ 
+							element: "#search",
+							showImages: false,
+							showSubResults: true,
+							baseUrl: "/"
+						});
+					} catch (e) {
+						console.error('Error initializing PagefindUI:', e);
+						searchEl.innerHTML = '<p>Search is currently unavailable</p>';
+					}
+				}
+			});
+		</script>
 	</head>
 	<body>
 		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
 
 		<header>
-			<img src="/img/logo.png" alt="It's Hot In Here Logo" style="width: 60px; height: auto; color: transparent;"/>
-			<a href="/" class="home-link" id="nav-title">{{ metadata.title }}</a>
+			<div class="header-content">
+				<div class="logo-title">
+					<img src="/img/logo.png" alt="It's Hot In Here Logo" style="width: 60px; height: auto; color: transparent;"/>
+					<a href="/" class="home-link" id="nav-title">{{ metadata.title }}</a>
+				</div>
 
-			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-			<nav>
-				<h2 class="visually-hidden">Top level navigation menu</h2>
-				<ul class="nav">
-				{%- for entry in collections.all | eleventyNavigation %}
-					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
-				{%- endfor %}
-				</ul>
-			</nav>
+				{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+				<nav>
+					<h2 class="visually-hidden">Top level navigation menu</h2>
+					<ul class="nav">
+					{%- for entry in collections.all | eleventyNavigation %}
+						<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
+					{%- endfor %}
+					</ul>
+				</nav>
+			</div>
+			{% if page.url == "/blog/" or page.url == "/tags/" %}
+			<div id="search" style="margin: 1rem 0; width: 100%; max-width: 600px;"></div>
+			{% endif %}
 		</header>
+
+		<style>
+			body {
+				--pagefind-ui-text: #393939;
+				--pagefind-ui-background: #ffffff;
+			}
+
+			.pagefind-ui__drawer{
+				background-color: #ffffff !important;
+				margin-top: 10px !important;
+				border-radius: 10px !important;
+				padding: 10px !important;
+			}
+
+
+			.header-content {
+				display: flex;
+				align-items: center;
+				justify-content: space-between;
+				width: 100%;
+			}
+			.logo-title {
+				display: flex;
+				align-items: center;
+				gap: 1rem;
+			}
+			#search {
+				margin: 1rem auto;
+			}
+		</style>
 
 		<main id="main">
 			<heading-anchors>
