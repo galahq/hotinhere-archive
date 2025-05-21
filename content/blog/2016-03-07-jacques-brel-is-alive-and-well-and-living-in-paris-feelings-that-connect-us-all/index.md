@@ -16,7 +16,11 @@ Remember that edgy ["out there" episode](http://www.hotinhere.us/podcast/urineto
 
 Well,  they're back. For the dead of winter spring break in our studios we welcomed the talent behind the  [Penny Seats Theatre Company](http://www.pennyseats.org/)’s recent cabaret style show  _Jacques Brel is Alive and Well and Living in Paris._  Fresh from their sold out, critically acclaimed performances at the downtown pub [Connor O Neill's,](http://www.conoroneills.com/annarbor/) we head from guests including _c_ast members **Lauren London** and **Roy Sexton**, show director **Laura Sagolla**, and musical director **Richard Alder**.
 
-[Jacques Brel](https://en.wikipedia.org/wiki/Jacques_Brel) is a famous Belgian singer-songwriter who wrote his songs in French during the 1960s. Through his art he became extremely well-known in France, to the degree that the French recognize Brel the way Americans know Bob Dylan or Joni[![Jacques_Brel_Is_Alive_Cast_Recording](images/Jacques_Brel_Is_Alive_Cast_Recording-300x300.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/03/Jacques_Brel_Is_Alive_Cast_Recording.jpg) Mitchell. The show, originally produced in 1968 off broadway, is a revue of Jacques Brel's music and explores the universal emotions of love, loss, fear, obsession, and hope. Brel's work is laden with pathos, yet also lighthearted.<!--more-->
+[Jacques Brel](https://en.wikipedia.org/wiki/Jacques_Brel) is a famous Belgian singer-songwriter who wrote his songs in French during the 1960s. Through his art he became extremely well-known in France, to the degree that the French recognize Brel the way Americans know Bob Dylan or Joni Mitchell. 
+
+![Jacques_Brel_Is_Alive_Cast_Recording](images/Jacques_Brel_Is_Alive_Cast_Recording-300x300.jpg)
+
+The show, originally produced in 1968 off broadway, is a revue of Jacques Brel's music and explores the universal emotions of love, loss, fear, obsession, and hope. Brel's work is laden with pathos, yet also lighthearted.<!--more-->
 
 During our one hour radio show the cast and crew offer insights and takeaways from the _Jacques Brel_ _is Alive and Well and Living in Paris_ show. They go into the origin of the show and the story behind the production, including why they brought the show onto the local stage and how the music came together. **Laura** shares with us her story of being moved by Jacques Brel songs growing up, how it resonated with her and why she brought the show to the Penny Seats.  **Roy** and **Lauren**, with **Rich** playing piano in the background, bring their characters to life through on-air musical performances while also delving into their impressions of the characters they reenact. Their insights are a must hear and the tunes include _Amsterdam_, _I Loved_, _Mathilde_, _Marieke_, and _If We Only Have Love_.Learn even more from their press release: [The Penny Seats announces upcoming season](http://www.encoremichigan.com/2015/11/the-penny-seats-announces-upcoming-season/) and [Penny Seats adds a performance of “Jacques Brel” in Ann Arbor](http://reelroyreviews.com/2016/02/27/frank-weir-photographs-february-25-jacques-brel-performance/). For pictures of the show, refer to [this post on Reel Roy Reviews](http://reelroyreviews.com/2016/02/27/frank-weir-photographs-february-25-jacques-brel-performance/).
 
@@ -56,10 +60,18 @@ You can get involved,  find out more about auditioning or production work for 
 
 **Pictures from today's show:**
 
-\[caption id="attachment\_1315" align="alignnone" width="300"\][![Lauren singing Marieke from the Jacques Brel show in Dutch, with Roy singing in the background, and Rich playing the piano. ](images/20160304_124526-300x169.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/03/20160304_124526.jpg) Lauren singing Marieke from the Jacques Brel show in Dutch, with Roy singing in the background, and Rich playing the piano.\[/caption\]
+![Lauren singing Marieke from the Jacques Brel show in Dutch, with Roy singing in the background, and Rich playing the piano.](images/20160304_124526-300x169.jpg)
 
-\[caption id="attachment\_1316" align="alignnone" width="300"\][![Laura and David](images/20160304_124539-300x169.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/03/20160304_124539.jpg) Our guest Laura and in studio audience David enjoying Lauren and Roy's performance.\[/caption\]
+Lauren singing Marieke from the Jacques Brel show in Dutch, with Roy singing in the background, and Rich playing the piano.
 
-\[caption id="attachment\_1317" align="alignnone" width="300"\][![In studio production pictures by Roy](images/image3-300x300.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/03/image3.jpg) In studio production pictures by Roy.\[/caption\]
+![Laura and David](images/20160304_124539-300x169.jpg)
 
-\[caption id="attachment\_1327" align="alignnone" width="474"\][![](images/IMG_5917-1024x768.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/03/IMG_5917.jpg) Today's production team - from left to right, host Pearl Zeng, audio engineer Cameron Bothner, guest Laura Sagolla, guest Lauren London, guest Rich Alder, guest Roy Sexton, and host Sam Molnar.\[/caption\]
+*Our guest Laura and in studio audience David enjoying Lauren and Roy's performance.*
+
+![In studio production pictures by Roy](images/image3-300x300.jpg) 
+
+*In studio production pictures by Roy.*
+
+![](images/IMG_5917-1024x768.jpg)
+
+*Today's production team - from left to right, host Pearl Zeng, audio engineer Cameron Bothner, guest Laura Sagolla, guest Lauren London, guest Rich Alder, guest Roy Sexton, and host Sam Molnar.*

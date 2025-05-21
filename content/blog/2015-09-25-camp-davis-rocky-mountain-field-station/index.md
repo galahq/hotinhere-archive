@@ -8,17 +8,23 @@ coverImage: "4525541_orig.png"
 
 # About Camp Davis
 
-\[caption id="" align="alignright" width="299"\]![Picture](images/4173761.png) Cabins at Camp Davis\[/caption\]
+![Picture](images/4173761.png) 
 
-Nestled in the mountains 19 miles south of Jackson Hole, Wyoming and tucked between the Hoback River and Bridger Teton National Forest,  [Camp Davis Rocky Mountain Field Station](https://lsa.umich.edu/earth/camp-davis/camp-davis-faq.html) is a research and teaching facility owned and operated by the University of Michigan and managed by the Department of Earth & Environmental Science. Camp Davis has provided an unparalleled learning experience each summer since 1929. Camp Davis offers courses in Introductory Geology, Geological Mapping, Ecosystem Science and the History and Literature of the West. Located within the Greater Yellowstone Ecosystem and nearby Grand Teton National Park, our location provides a wealth of instructional opportunities.<!--more-->
+*Cabins at Camp Davis*
 
-Camp Davis allows students to fulfill their Practical Experience requirements for their respective majors. Two of the most common majors that require Practical Experience are the Program in the Environment and Earth and Environmental Sciences. The Practical Experience requirement is an opportunity for students to learn through action and not just listening to lectures. It is essential for students to get into the field and experience first-hand the issues that are affecting the plant. This includes a research component that pushes students to engage with a wide variety of environmental and human issues through question formulation, data collection, analysis and in-depth discussion. This opportunity gives students valuable experiences that can help them land their first job or get into their graduate school of choice. Other regular field experiences to choose from include the [U of M Biological Station](http://www.lsa.umich.edu/umbs) in Northern Michigan (which includes courses for non UM Students!), the [New English Literature Program](https://www.lsa.umich.edu/english/nelp/), the [Michigan in Washington Program](http://www.lsa.umich.edu/michinwash), and the  [Semester in Detroit](http://lsa.umich.edu/sid).
+Nestled in the mountains 19 miles south of Jackson Hole, Wyoming and tucked between the Hoback River and Bridger Teton National Forest, [Camp Davis Rocky Mountain Field Station](https://lsa.umich.edu/earth/camp-davis/camp-davis-faq.html) is a research and teaching facility owned and operated by the University of Michigan and managed by the Department of Earth & Environmental Science. Camp Davis has provided an unparalleled learning experience each summer since 1929. Camp Davis offers courses in Introductory Geology, Geological Mapping, Ecosystem Science and the History and Literature of the West. Located within the Greater Yellowstone Ecosystem and nearby Grand Teton National Park, our location provides a wealth of instructional opportunities.<!--more-->
+
+Camp Davis allows students to fulfill their Practical Experience requirements for their respective majors. Two of the most common majors that require Practical Experience are the Program in the Environment and Earth and Environmental Sciences. The Practical Experience requirement is an opportunity for students to learn through action and not just listening to lectures. It is essential for students to get into the field and experience first-hand the issues that are affecting the plant. This includes a research component that pushes students to engage with a wide variety of environmental and human issues through question formulation, data collection, analysis and in-depth discussion. This opportunity gives students valuable experiences that can help them land their first job or get into their graduate school of choice. Other regular field experiences to choose from include the [U of M Biological Station](http://www.lsa.umich.edu/umbs) in Northern Michigan (which includes courses for non UM Students!), the [New English Literature Program](https://www.lsa.umich.edu/english/nelp/), the [Michigan in Washington Program](http://www.lsa.umich.edu/michinwash), and the [Semester in Detroit](http://lsa.umich.edu/sid).
 
 * * *
 
-\[caption id="" align="alignnone" width="371"\]![Picture](images/3847430.jpg) History and Literature of the West class on a hike in Cascade Canyon, Grand Teton Nat'l Park\[/caption\]
+![Picture](images/3847430.jpg) 
 
-\[caption id="" align="alignright" width="270"\]![Picture](images/3088033.jpg) Bailey Schneider in the Tetons while at Camp Davis\[/caption\]
+*History and Literature of the West class on a hike in Cascade Canyon, Grand Teton Nat'l Park*
+
+![Picture](images/3088033.jpg)
+
+*Bailey Schneider in the Tetons while at Camp Davis*
 
 Our host, **Bailey Schneider**, has taken two courses at Camp Davis. In the summer of 2014, she took an Introductory Geology course thats covers all aspects of modern earth sciences. Students in this course learn about rocks, minerals, and fossils, both in the classroom and in a variety of natural settings, which leads to discussion and understanding of topics such as volcanic eruptions, earthquakes, geo-environmental problems, pale-oceanography, and tectonic processes. This past summer, she took History and Literature of the Rockies, which was taught by **Gregg Crane** and **Phil Deloria**. This course examines a range of human experiences and expressions of place, centered on the Camp Davis region and Grand Teton and Yellowstone National Parks. This course also examines human histories and landscapes, tracing these from the first inhabitants to contemporary development, management, and recreational issues, as well as human expressions of place captured in literature, art, and landscape. As she put it on air (after admitting she got in trouble for carving her name in a cabin!)  "It made me want to live with more purpose...it actually DID change my life."
 
@@ -30,11 +36,17 @@ Another guest in studio, new IHIH production team member  and PITE major Harry 
 
 * * *
 
-\[caption id="" align="alignnone" width="250"\][![](images/1668716.jpg)](http://hotinhereus.ipage.com/new/wp-content/uploads/2015/09/1668716_orig.jpg "Rendezvous Peak, Grand Teton Nat'l Park") Rendezvous Peak, Grand Teton Nat'l Park\[/caption\]
+  ![](images/1668716.jpg)
+  
+  *Rendezvous Peak, Grand Teton Nat'l Park*
 
-\[caption id="" align="alignnone" width="250"\][![](images/5010436.jpg)](http://hotinhereus.ipage.com/new/wp-content/uploads/2015/09/5010436_orig.jpg "History and Literature of the West class in Yellowstone Nat'l Park") History and Literature of the West class in Yellowstone Nat'l Park\[/caption\]
+![](images/5010436.jpg)
 
-\[caption id="" align="alignnone" width="333"\][![](images/9174002.jpg)](http://hotinhereus.ipage.com/new/wp-content/uploads/2015/09/9174002_orig.jpg "Hayden Valley, Yellowstone Nat'l Park (Taken by Phil Deloria)") Hayden Valley, Yellowstone Nat'l Park (Taken by Phil Deloria)\[/caption\]
+*History and Literature of the West class in Yellowstone Nat'l Park*
+
+![](images/9174002.jpg)
+
+*Hayden Valley, Yellowstone Nat'l Park (Taken by Phil Deloria)*
 
 ## Our Guest: Phil Deloria
 

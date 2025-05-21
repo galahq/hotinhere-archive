@@ -10,21 +10,29 @@ coverImage: "12896651754_6401784ea2_h.jpg"
 
 This week we took a break from the [exciting](http://www.hotinhere.us/2016/01/maintaining-the-lions-den-with-craig-packer/)\-but-[heavy](http://www.hotinhere.us/podcast/financing-biodiversity-conservation-the-case-of-the-birds-head-seascape/) [subject matter](http://www.hotinhere.us/podcast/last-animals-lasting-solutions-lions-the-last-animals-and-conservation-strategies/) that has occupied the It's Hot in Here crew as of late, in order to mull-over the legacy of Captain Planet--perhaps the most recognizable environmentally-themed character of the 21st century, the product of a children's television show no less!
 
-\[caption id="attachment\_1272" align="alignright" width="201"\][![Gaia - Captain Planet Dunkin Donuts Card (Photographed by Mark Anderson)](images/4141724180_95f29457a2_b-201x300.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/02/4141724180_95f29457a2_b.jpg) Gaia - Captain Planet Dunkin Donuts Card (Photo by Mark Anderson)\[/caption\]
+![Gaia - Captain Planet Dunkin Donuts Card (Photographed by Mark Anderson)](images/4141724180_95f29457a2_b-201x300.jpg)
+
+*Gaia - Captain Planet Dunkin Donuts Card (Photo by Mark Anderson)*
 
 Although the show ceased production in the mid-90s, our blue-skinned, green-haired hero still pops-up at Halloween parties and climate rallies to this day.  What should we make of Captain Planet's legacy?  Is the show just a cheesy relic from the heyday of Saturday morning cartoons or can it also offer us a meaningful glimpse of popular environmentalism's past and present?
 
 To this end, we sat down with three environmental thinkers to ponder clips from the show:<!--more-->
 
-[![Bilal Butt](images/SIDRAASIM-E-259-1-150x150.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/02/SIDRAASIM-E-259-1.jpg) **Bilal Butt**, an assistant professor at the University of Michigan School of Natural Resources and Environment (SNRE), talked about simplistic environmental narratives, starting with a discussion of a Captain Planet episode called [The Population Bomb](https://www.youtube.com/watch?v=oQ6jm13jH_k) (which references themes from a well-known [1968 work](https://en.wikipedia.org/wiki/The_Population_Bomb) by the same name).  He also discussed way in which popular children’s narratives about the African savannah predetermine who and what belongs on the landscape.
+![Bilal Butt](images/SIDRAASIM-E-259-1-150x150.jpg)
 
-\[embed\]https://www.youtube.com/watch?v=iMZtug7zNyk\[/embed\]
+**Bilal Butt**, an assistant professor at the University of Michigan School of Natural Resources and Environment (SNRE), talked about simplistic environmental narratives, starting with a discussion of a Captain Planet episode called [The Population Bomb](https://www.youtube.com/watch?v=oQ6jm13jH_k) (which references themes from a well-known [1968 work](https://en.wikipedia.org/wiki/The_Population_Bomb) by the same name).  He also discussed way in which popular children’s narratives about the African savannah predetermine who and what belongs on the landscape.
 
-[![Mitchell Young](images/A95957A5A-150x150.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/02/A95957A5A.jpg)**Mitchell Young**, a graduate student in nuclear engineering at UM and passionate advocate of nuclear energy as a means of limiting greenhouse gas emissions, shared his reaction to [Meltdown Syndrome](https://www.youtube.com/watch?v=qBdOFMXHUdw), a heavy-handed anti-nuclear polemic that nonetheless projects many of our collective fears about nuclear power.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iMZtug7zNyk?si=-rRt37T7dY6I3EI5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![Mitchell Young](images/A95957A5A-150x150.jpg)
+
+**Mitchell Young**, a graduate student in nuclear engineering at UM and passionate advocate of nuclear energy as a means of limiting greenhouse gas emissions, shared his reaction to [Meltdown Syndrome](https://www.youtube.com/watch?v=qBdOFMXHUdw), a heavy-handed anti-nuclear polemic that nonetheless projects many of our collective fears about nuclear power.
 
 \[In the segment we also mentioned a briefing by the [Union of Concerned Scientists](http://www.ucsusa.org/nuclear-power#.VrkPS_krLWI)\]
 
-[![](images/Goto-Sara-1-1-e1455072118273-128x150.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/02/Goto-Sara-1-1.jpg)**Sara Goto**, a Phd student studying environmental decision-making at the SNRE, graciously watched several of [the PSA](https://youtu.be/6BzDhZ3zTUE?t=3)s shown at the end of each Captain Planet episode and reported back her impressions.  She went on to discuss how we decide to take everyday environmental actions, and the way in which policymakers "nudge" us onto team planet.
+![](images/Goto-Sara-1-1-e1455072118273-128x150.jpg)
+
+**Sara Goto**, a Phd student studying environmental decision-making at the SNRE, graciously watched several of [the PSA](https://youtu.be/6BzDhZ3zTUE?t=3)s shown at the end of each Captain Planet episode and reported back her impressions.  She went on to discuss how we decide to take everyday environmental actions, and the way in which policymakers "nudge" us onto team planet.
 
 <iframe src="https://www.youtube.com/embed/6BzDhZ3zTUE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 

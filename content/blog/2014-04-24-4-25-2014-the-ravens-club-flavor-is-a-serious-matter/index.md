@@ -12,7 +12,9 @@ tags:
 coverImage: "9253661_orig11.png"
 ---
 
-\[caption id="" align="aligncenter" width="274"\]![Picture](images/45763711.png) "bitters are to cocktails, like seasonings are to food."\[/caption\]
+![Picture](images/45763711.png) 
+
+*"bitters are to cocktails, like seasonings are to food."*
 
 This week Frank Fejeran (Chef) and Zack Zavisa (Bartender) of [The Ravens Club](http://theravensclub.com/) take us on a savory trip through culinary and liquid media.  Join us!
 

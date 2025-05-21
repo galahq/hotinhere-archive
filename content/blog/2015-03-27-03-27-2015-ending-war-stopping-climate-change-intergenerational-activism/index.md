@@ -17,13 +17,9 @@ Today's show was about how to end the war against the planet! We brought togethe
 
 The teach-in included classes and seminars like this one.
 
-[![](images/37008801.jpg)](http://hotinhereus.ipage.com/new/wp-content/uploads/2015/03/3700880_orig1.jpg)
+![](images/37008801.jpg)
 
-[![](images/57268441.jpg)](http://hotinhereus.ipage.com/new/wp-content/uploads/2015/03/5726844_orig1.jpg)
-
- 
-
- 
+![](images/57268441.jpg)
 
 ![Picture](images/41300001.jpg)
 
@@ -45,11 +41,9 @@ In addition to being a member of the editorial board and a columnist for _The 
 
 Tom is pictured on the far left.
 
-[![](images/20897541.jpg)](http://hotinhereus.ipage.com/new/wp-content/uploads/2015/03/2089754_orig1.jpg)
+![](images/20897541.jpg)
 
-[![](images/49275331.png)](http://hotinhereus.ipage.com/new/wp-content/uploads/2015/03/4927533_orig1.png)
-
- 
+![](images/49275331.png)
 
 ![Picture](images/56378651.jpg)
 
@@ -61,7 +55,7 @@ During his time at the University of Michigan in the 1960s, **Richard** helped t
 
 * * *
 
-[![](images/15264831.png)](http://hotinhereus.ipage.com/new/wp-content/uploads/2015/03/1526483_orig1.png)
+![](images/15264831.png)
 
  
 
@@ -85,6 +79,6 @@ During his time at the University of Michigan in the 1960s, **Richard** helped t
 
 ![Picture](images/94241851.png)
 
-[![Picture](images/260778_orig1.png)](http://sites.lsa.umich.edu/teach-in-50/)
+![Picture](images/260778_orig1.png)
 
 The Teach In + 50 will commemorate the 50th anniversary of the 1965 Teach-Ins at U of M March 27-28, 2015 -Pre-event Rally: 3-4pm, on the Diag -Rally speech by Tom Hayden at 3:45pm, followed by march to Angell Hall -Speaker panels will follow through the weekend

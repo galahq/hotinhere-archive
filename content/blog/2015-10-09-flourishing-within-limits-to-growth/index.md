@@ -31,8 +31,6 @@ Musical selections this week included a collection of classical pieces selected 
 
 ![Picture](images/50578891.jpg)
 
-**Dr. Brian D. Fath**
-
 **Dr. Brian D. Fath** is a professor in Department of Biological Sciences at Towson University in Maryland and editor-in-chief of Ecological Modeling Journal. He a major contributor to the newly published book, "Flourishing within Limits to Growth: Following Nature's Way." **Professor Fath** serves as a research scholar in the Advanced Systems Analysis Program at International Institute for Applied Systems Analysis (IIASA) in Austria, and the scientific coordinator in Young Scientists Summer Program at IIASA.
 
 Dr. Brian D. Fath's page on Towson University: [http://pages.towson.edu/bfath/](http://pages.towson.edu/bfath/) Club of Siena: [http://clubofsiena.eco-soft.dk/](http://clubofsiena.eco-soft.dk/) International Institute for Applied Systems Analysis (IIASA): [http://www.iiasa.ac.at/web/home/research/Advanced-Systems-Analysis.en.html](http://www.iiasa.ac.at/web/home/research/Advanced-Systems-Analysis.en.html)
@@ -40,8 +38,6 @@ Dr. Brian D. Fath's page on Towson University: [http://pages.towson.edu/bfath/]
 * * *
 
 ![Picture](images/60009931.jpg)
-
-**Joey Zhouyuan Li**
 
 **Joey Zhouyuan Li** is a Ph.D student in the School of Environment at Tsinghua University, China. He is currently in the US as a visiting scholar for the Fall semester under Professor Brian Fath. He is working on a doctoral dissertation about progress in ecological restoration and regional climate change in China's grassland ecosystems. **Joey** recently published his research on Environmental Science and Technology by April this year.
 
@@ -55,4 +51,6 @@ Joey's recent publications about his dissertation research project: [http://pubs
 
 ###### This week's in-studio production team: 
 
-\[caption id="attachment\_112" align="alignnone" width="225"\][![Left to right: Engineer Jason Adam Voss, Ed Waisanen, Pearl Zeng, Alex Truelove, and Joey Li.](images/1444606184-225x3001.png)](http://hotinhereus.ipage.com/new/wp-content/uploads/2015/10/14446061841.png) Left to right: Engineer Jason Adam Voss, Ed Waisanen, Pearl Zeng, Alex Truelove, and Joey Li.\[/caption\]
+![Left to right: Engineer Jason Adam Voss, Ed Waisanen, Pearl Zeng, Alex Truelove, and Joey Li.](images/1444606184-225x3001.png)
+
+*Left to right: Engineer Jason Adam Voss, Ed Waisanen, Pearl Zeng, Alex Truelove, and Joey Li.*

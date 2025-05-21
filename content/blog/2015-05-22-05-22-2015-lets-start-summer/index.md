@@ -23,6 +23,6 @@ Updates on the Santa Barbara Oil Spill Officials from Plains All American Pipeli
 
 In the great mitten state, the talk of summer is cherries, lakeside picnics, blueberries and strawberries, and of course, morel mushrooms. Find out where to find and when and how to pick morels [here.](http://www.motherearthnews.com/organic-gardening/guide-to-hunting-for-morel-mushrooms-zmaz02amzgoe.aspx)
 
-[![](images/79987701.jpg)](http://hotinhereus.ipage.com/new/wp-content/uploads/2015/05/7998770_orig1.jpg)
+![](images/79987701.jpg)
 
-[![](images/26489511.jpg)](http://hotinhereus.ipage.com/new/wp-content/uploads/2015/05/2648951_orig1.jpg)
+![](images/26489511.jpg)

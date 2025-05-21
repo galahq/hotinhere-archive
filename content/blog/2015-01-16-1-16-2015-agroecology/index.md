@@ -20,7 +20,9 @@ tags:
   - "wcbn"
 ---
 
-\[caption id="" align="alignright" width="235"\]![Picture](images/95102771.jpg) Dr. Marney Isaac, University of Toronto\[/caption\]
+![Picture](images/95102771.jpg) 
+
+*Dr. Marney Isaac, University of Toronto*
 
 It is 2015 and we are back! To kick off the new year on _It's Hot in Here_, our hosts **Rebecca Hardin** and **Sam Molnar** discussed Agroecology with **Dr. Marney Isaac**, Assisant Professor and Canada Research Chair in Agroecosystems & Development at the University of Toronto.
 

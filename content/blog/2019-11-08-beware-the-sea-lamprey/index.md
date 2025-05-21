@@ -14,38 +14,36 @@ _"Nightmare. But also, cool." - Host Bella Isaacs on the sea lamprey._
 
 <!--more-->
 
-- <figure>
+<figure>
+
+![](images/Image-from-iOS-3-1024x768.jpg)
     
-    ![](images/Image-from-iOS-3-1024x768.jpg)
+<figcaption>
+Ross Shaw (left) and Cory Brant (right) of the Great Lakes Fishery Commission.
+</figcaption>
+
+</figure>
     
-    <figcaption>
+<figure>
     
-    Ross Shaw (left) and Cory Brant (right) of the Great Lakes Fishery Commission.
+![](images/Image-from-iOS-2-768x1024.jpg)
     
-    </figcaption>
+<figcaption>
     
-    </figure>
+Host Bella Isaacs faces her greatest fear: touching fish (the gloves helped).
     
-- <figure>
+</figcaption>
     
-    ![](images/Image-from-iOS-2-768x1024.jpg)
+</figure>
     
-    <figcaption>
+<figure>
     
-    Host Bella Isaacs faces her greatest fear: touching fish (the gloves helped).
+![](images/Image-from-iOS-1024x768.jpg)
     
-    </figcaption>
+<figcaption>
     
-    </figure>
+The steely gaze of an aquatic murderer.
     
-- <figure>
+</figcaption>
     
-    ![](images/Image-from-iOS-1024x768.jpg)
-    
-    <figcaption>
-    
-    The steely gaze of an aquatic murderer.
-    
-    </figcaption>
-    
-    </figure>
+</figure>

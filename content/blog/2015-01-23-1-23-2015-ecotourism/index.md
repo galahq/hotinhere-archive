@@ -26,7 +26,7 @@ tags:
   - "wcbn"
 ---
 
-[![Picture](images/2935343_orig1.png)](http://hotinhereus.ipage.com/new/wp-content/uploads/2015/01/2935343_orig1.png)
+![Picture](images/2935343_orig1.png)
 
 Today's show features **Jimmy Chin**, renowned **North Face** team Climber and Photographer, **Will Weber**, Founder of **Journeys International** and Returned Peace Corps Volunteer, and **Benjamin Morse**, SNRE MSc. student (2016) and Returned Peace Corps Volunteer.
 

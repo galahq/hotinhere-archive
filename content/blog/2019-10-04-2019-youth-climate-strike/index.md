@@ -13,10 +13,10 @@ Host Bella Isaacs attended this year's Washtenaw County Youth Climate Strike on 
 
 <!--more-->
 
-[![](images/Image-from-iOS-2-300x200.jpg)](https://hotinhere.us/wp-content/uploads/2019/10/Image-from-iOS-2.jpg)
+![](images/Image-from-iOS-2-300x200.jpg)
 
-[![](images/Image-from-iOS-3-300x225.jpg)](https://hotinhere.us/wp-content/uploads/2019/10/Image-from-iOS-3.jpg)
+![](images/Image-from-iOS-3-300x225.jpg)
 
-[![](images/Image-from-iOS-4-225x300.jpg)](https://hotinhere.us/wp-content/uploads/2019/10/Image-from-iOS-4.jpg)
+![](images/Image-from-iOS-4-225x300.jpg)
 
 _Photos courtesy of Naina Agrawal-Hardin_
