@@ -8,12 +8,15 @@
 
 ---
 
-To run locally: 
+## To run locally: 
 1. Clone this repository
 2. `npm install`
 3. `npx @11ty/eleventy --serve`
 
-Deploying:
+## Deploying:
 - [pagefind](https://pagefind.app/) needs to run in order to do the search indexing:
 `npx @11ty/eleventy && npx pagefind --site _site`
 - otherwise, follow the official 11ty instructions https://www.11ty.dev/docs/deployment/
+
+## Redirects:
+The date has been appended the the folders in the migration from Wordpress. This allows easier navigation of the content folder, but breaks existing links to hoinhere.us. `node scripts/generate-redirects.js` will generate redirects in the `_redirects' file. You shouldn't need to run this, since it only impacts the existing posts. Right now this is configured for Cloudflare pages. Different hosts may want the file in a different folder or use a different redirect system.
