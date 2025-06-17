@@ -2,6 +2,7 @@
 title: "Renewable Energy: Cities, Communities & Corporations"
 date: 2016-10-27
 coverImage: "Boulder-Case.jpg"
+entryId: '1_nvy1cuuw'
 ---
 
 On this week’s episode of It’s Hot in Here, host _Chris Askew-Merwin_ examines strategies for renewable energy development in cities, communities, and corporations. He is joined in studio by _Ben Kunstman_, a member of a Michigan Sustainability Case (MSC) team looking at municipalization, and _Olivia Katz_ and _Sean Pavlik_, students at the Erb Institute at the University of Michigan who worked at the Rocky Mountain Institute (RMI) over the summer. The segment also features an interview from _Randy Knight_, the city manager of Winter Park, Florida, who successfully municipalized their electric utility.

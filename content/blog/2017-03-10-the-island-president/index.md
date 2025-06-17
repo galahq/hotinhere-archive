@@ -2,6 +2,7 @@
 title: "The Island President"
 date: 2017-03-10
 coverImage: "Nasheed.jpeg"
+entryId: '1_gu11hiw7'
 ---
 
 On March 6th  the Donia Human Rights Center a the University of Michigan sponsored a panel discussion with the world recognized human rights activist and politician, _Mohamed Nasheed,_   as well as UM Law graduate and celebrity human rights lawyer _Jared Genser,_  and our own _Rebecca Hardin__._  Genser has been co-counsel with _Amal Clooney_ in defending _Mr. N__asheed,_  the first democratically elected president of the Maldives. Why?

@@ -2,6 +2,7 @@
 title: "Act on Climate: Steps to Individual, Community, and Political Action"
 date: 2017-11-20
 coverImage: "Act-on-Climate-Social-Media-Photo.png"
+entryId: '1_4ajcg5vx'
 ---
 
 Are you concerned about climate change? Would you like to learn about how you can address and respond to this challenge - whether as an individual, by collaborating with others, or through political actions? Click play on this episode of It's Hot In Here to hear from the [SEAS](https://hotinhere.us12.list-manage.com/track/click?u=8c9ab7982d6dae1cbf42be6a8&id=ce728d5aaa&e=d66e616f76) graduate students that helped design the [Act on Climate MOOC](https://hotinhere.us12.list-manage.com/track/click?u=8c9ab7982d6dae1cbf42be6a8&id=6e50d6482c&e=d66e616f76) now available on Coursera. The course uses food, energy, transportation and cities as frames for things impacting climate change, and uses true and inspiring case studies as the subject material for discussion. We heard from the students as well as local farmer, green realtor, and board member of local sustainability initiative [The Agrarian Adventure](https://hotinhere.us12.list-manage.com/track/click?u=8c9ab7982d6dae1cbf42be6a8&id=efbf3b0eb6&e=d66e616f76), Jeff Tanza.

@@ -2,6 +2,7 @@
 title: "EcoQuest: Stories From a Semester Abroad in New Zealand"
 date: 2017-10-10
 coverImage: "EcoQuest-copy.jpg"
+entryId: '1_qnmfzq9o'
 ---
 
 When asked to describe an average day of class at the [EcoQuest](https://ecoquest.unh.edu/) study abroad program, our guests replied, "there's  no such thing."

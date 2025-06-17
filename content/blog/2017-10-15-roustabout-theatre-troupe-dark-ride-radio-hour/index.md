@@ -2,6 +2,7 @@
 title: "Roustabout Theatre Troupe: Dark Ride Radio Hour"
 date: 2017-10-15
 coverImage: "darkride-proof1-1024x631.jpg"
+entryId: '1_9mzloihe'
 ---
 
 On this eerie Friday the 13th in the WCBN-FM studio, Roustabout Theatre's _Joe Zettelmaier_ and _Anna Simmons_ join host _Ben Sonnega_ for a chat about the troupe's latest production, the hilarious and haunting Dark Ride Radio Hour.

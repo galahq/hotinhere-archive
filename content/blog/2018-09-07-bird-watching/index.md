@@ -5,6 +5,7 @@ tags:
   - "riffing"
   - "transportation"
 coverImage: "28979118607_49a835d6c3_k.jpg"
+entryId: '1_gl5dv8h9'
 ---
 
 The semester is just starting up again and we're live once more! We're still building up the student team so we returned to a classic formula: riffing on the news of the day!

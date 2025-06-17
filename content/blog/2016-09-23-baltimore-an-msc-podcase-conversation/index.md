@@ -2,6 +2,7 @@
 title: "Baltimore...an MSC Podcase Conversation"
 date: 2016-09-23
 coverImage: "bge-smart-meters.jpg"
+entryId: '1_guaw0qq2'
 ---
 
 Travel back with us to the hot month of June 2010 in Baltimore, Maryland. Commissioner Douglas Nazarian, Chair of  the Maryland Public Service Commission (MPSC) is in the hot seat. He is considering whether to approve a  proposal from Baltimore Gas and Electric (BGE) to use a 200 million dollar budget granted by the Department of Energy to  roll out smart meters across their service territory and to institute a new electricity pricing plan that would rely on the meters.

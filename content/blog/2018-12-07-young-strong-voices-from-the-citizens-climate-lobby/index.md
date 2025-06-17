@@ -8,6 +8,7 @@ tags:
   - "student-activism"
   - "uofm"
 coverImage: "CCL-Image.png"
+entryId: '1_6b82jvv3'
 ---
 
 Catherine Garton is not only a microbiology, applied statistics, and energy science & policy buff.  She's also the founder of the Citizens' Climate Lobby (CCL) chapter at the University of Michigan. The student group is part of a larger nonpartisan grassroots organization that aims to "[build the political will for a livable world](http://citizensclimatelobby.org/files/CCL-Introductory-Presentation5-1-13.pdf)" by advocating for climate change solutions. Specifically, they support the implementation of a Carbon Fee and Dividend policy. Garton, a sophomore, founded the campus chapter only recently, but the umbrella organization has been active for over a decade and oversees 1,300+ chapters internationally. This week, co-hosts Logan and Heena talked with Catherine Garton and Lena Swirczek, another CCL student activist who is also involved in the University of Michigan's Sustainable Living Experience, a sustainability-focused community at Oxford Houses on campus. <!--more-->

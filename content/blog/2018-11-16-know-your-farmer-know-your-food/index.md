@@ -8,6 +8,7 @@ tags:
   - "local-food"
   - "localization"
 coverImage: "apples-business-buy-95425.jpg"
+entryId: '1_5p8ucods'
 ---
 
 Where did you collect your most recent grocery haul? Try to remember the items you hastily organized on the conveyor belt at check-out.  Now, where did all those come from?

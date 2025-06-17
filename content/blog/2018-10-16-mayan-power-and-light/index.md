@@ -11,6 +11,7 @@ tags:
   - "smallbusiness"
   - "sustainability"
 coverImage: "10.12.2018-MPL.jpg"
+entryId: '1_9pp0hkym'
 ---
 
 On Friday, hosts Ed, Bella, and Logan interviewed John Barrie and  Monika Goforth in an effort to "shed some light" on the inner machinations of the Mayan Power and Light Program (MPL). The MPL co-founders discuss the origins and motivations for creating the program, which include a desire to contribute to the green economy and create businesses within small communities in Guatemala. Breaks from the show feature Aurora and Tex's top picks for solar-themed songs.

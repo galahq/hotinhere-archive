@@ -2,6 +2,7 @@
 title: "Great Lakes Arts, Cultures, and Environments (GLACE)"
 date: 2018-03-23
 coverImage: "Screen-Shot-2018-04-04-at-1.46.47-PM.png"
+entryId: '1_rilu5u91'
 ---
 
 (UPDATE: Applications extended to April 14th!) [Apply HERE!](https://umich.qualtrics.com/jfe/form/SV_eIGxBwj6SJUtPX7)

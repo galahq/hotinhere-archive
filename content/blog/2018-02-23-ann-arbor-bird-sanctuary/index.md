@@ -2,6 +2,7 @@
 title: "Bird Center of Washtenaw County"
 date: 2018-02-23
 coverImage: "Image-12.jpg"
+entryId: '1_w36sdcfx'
 ---
 
 On this episode of It's Hot In Here, Andrea Aiuto of the [Bird Center of Washtenaw County](http://birdcenterwashtenaw.org/main/) joined hosts Ben Sonnega and Bella Isaacs for a casual Friday dialogue on her current work with bird rescue and how her love of birds came about.

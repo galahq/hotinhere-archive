@@ -2,6 +2,7 @@
 title: "Nagasaki Atomic History and Present"
 date: 2017-09-28
 coverImage: "Nagasaki-e1506567846420.jpg"
+entryId: '1_9ke45d23'
 ---
 
 The day that the United States dropped the atomic bomb on the people of Nagasaki is one that will not be forgotten in history, but do we truly understand all of the repercussions still?

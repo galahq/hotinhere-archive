@@ -5,6 +5,7 @@ tags:
   - "climate-change"
   - "stephen-jenkinson"
 coverImage: "Screen-Shot-2018-11-05-at-1.05.54-AM.png"
+entryId: '1_jsqmd287'
 ---
 
 On today's show, we bring you a conversation between regular host Ed Waisanen and Stephen Jenkinson, author, teacher, storyteller, spiritual activist, and farmer.  His most recent book, "Come of Age: The Case for Elderhood in a Time of Trouble," considers North America's paradoxical relationship with elderhood as the region's population continues to age yet fails to integrate intergenerational wisdom into its cultural consciousness during a time marked by a changing climate and sociopolitical unrest.

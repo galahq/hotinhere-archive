@@ -2,6 +2,7 @@
 title: "Onward: A Student Power Summit"
 date: 2017-04-07
 coverImage: "Onward.jpg"
+entryId: '1_lj2t7eem'
 ---
 
 [![](images/IMG_1308-300x225.jpg)](http://www.hotinhere.us/wp-content/uploads/2017/04/IMG_1308.jpg)

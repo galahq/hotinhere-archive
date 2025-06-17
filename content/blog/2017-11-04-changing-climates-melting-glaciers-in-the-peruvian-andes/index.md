@@ -2,6 +2,7 @@
 title: "Changing Climates: Melting Glaciers in the Peruvian Andes"
 date: 2017-11-04
 coverImage: "Alpaca-copy.jpg"
+entryId: '1_iv2j9mhf'
 ---
 
 The Hot In Here team spends a lot of time considering the far reaching impacts of climate change. From warmer temperatures, to rising seas, to pollution issues of climate justice, there is MORE than enough to address. Aiming to tackle this challenge one step at a time, we had the pleasure of having [U of M Sociocultural Anthropology](https://lsa.umich.edu/anthro/subfields/sociocultural-anthropology.html) PhD Candidate _Allison Caine_ join regular host _Ben Sonnega_ and new host on the mic _Ari Weil_ for an in depth look at her time spent in the Andes Mountains.

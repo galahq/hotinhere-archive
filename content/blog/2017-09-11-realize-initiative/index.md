@@ -2,6 +2,7 @@
 title: "Realize Initiative: RMI Research Conversation Part One"
 date: 2017-09-11
 coverImage: "IMG_7334-e1504818984363.jpg"
+entryId: '1_61pwxkeg'
 ---
 
  

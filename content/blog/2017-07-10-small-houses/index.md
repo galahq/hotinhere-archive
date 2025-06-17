@@ -2,6 +2,7 @@
 title: "Small Homes"
 date: 2017-07-10
 coverImage: "lloydkhan2.jpg"
+entryId: '1_fw76yoit'
 ---
 
 _This episode originally aired on June 16th, 2017._

@@ -2,6 +2,7 @@
 title: "The Founders of Food Literacy For All"
 date: 2018-02-13
 coverImage: "caroline-attwood-225496-unsplash.jpg"
+entryId: '1_icyph1to'
 ---
 
 This week, we bring you conversations with the three co-founders of [“Food Literacy For All,”](https://sites.lsa.umich.edu/sustainablefoodsystems/foodliteracyforall/) a weekly speaker series hosts experts in agriculture, food justice, sustainability, and more. Each talk is broadcast via Detroit Public Television and posted [online](https://sites.lsa.umich.edu/sustainablefoodsystems/category/food-literacy-for-all/). Students at the University of Michigan can take the course for credit, but the talks are open to the public.

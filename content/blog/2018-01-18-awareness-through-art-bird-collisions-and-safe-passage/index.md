@@ -2,6 +2,7 @@
 title: "Awareness Through Art: Bird Collisions and Safe Passage"
 date: 2018-01-18
 coverImage: "Awareness-Through-Art.jpg"
+entryId: '1_8awoh3qs'
 ---
 
 Returning refreshed from the holiday break, guests Brooke McWherter and Alice Elliot joined host Ben Sonnega in the WCBN studios to call attention to an issue often overlooked. Amidst challenges presented by changing habitats and habitat destruction, bird kills from collisions with windows can sometimes be forgotten. This is not the case for our guests.

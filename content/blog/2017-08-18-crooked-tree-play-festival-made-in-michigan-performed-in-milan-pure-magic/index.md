@@ -2,6 +2,7 @@
 title: "Crooked Tree Play Festival: Made in Michigan, Performed in Milan, Pure Magic"
 date: 2017-08-18
 coverImage: "IMG_7866-1.jpg"
+entryId: '1_jbnmusg9'
 ---
 
 For those of you who felt our [fabulous show with Joe Z a few weeks back](http://www.hotinhere.us/podcast/pennyplays-renaissanceman/) was just a cruel tease, today we bring you MORE of this talented writer/director/producer/teacher.  Joe is back with his open wit, soaring tenor vocals, and generous ability to make Michigan feel --for real--like a cultural mecca.
