@@ -10,6 +10,7 @@ tags:
   - "michigan"
   - "music"
 coverImage: "PennySeats_JBShow_2.jpg"
+entryId: '1_daulm7y7'
 ---
 
 Remember that edgy ["out there" episode](http://www.hotinhere.us/podcast/urinetown-arts-in-our-parks-and-the-future-of-peecycling/) of Its Hot in Here where talented artists sang live tunes from the Tony Award winning musical Urinetown, while talented scientists talked to us about  research  on "peecycling" (or the recovery on nutrients from urine for use in agricultural fertilization?)  Along the way we considered infrastructure (including urinals!) in our greenways and parks, and how more art and science can be showcased in our public spaces.

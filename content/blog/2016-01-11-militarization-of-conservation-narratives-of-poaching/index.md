@@ -16,6 +16,7 @@ tags:
   - "wildlife"
   - "wildlife-trafficking"
 coverImage: "IMG_1201.png"
+entryId: '1_sl4a0qoc'
 ---
 
 In this week’s broadcast, we dive into a complicated and contentious issue, discussing the increasing militarization of conservation and anti-poaching efforts on the African continent, especially as they relate to broader anti-terrorism agendas.

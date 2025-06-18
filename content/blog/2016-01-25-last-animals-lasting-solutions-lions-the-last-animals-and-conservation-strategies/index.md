@@ -15,6 +15,7 @@ tags:
   - "preservation"
   - "wildlife"
 coverImage: "17334619521_2d1022d662_k.jpg"
+entryId: '1_0y39rtl9'
 ---
 
 This week on “It’s Hot in Here,” hosts **_Mike Burbidge, Claire Poelking,_** and **_Katie Browne_** continued with the second part of the [Conservation Series](http://www.hotinhere.us/podcast/militarization-of-conservation-narratives-of-poaching/) with an in-depth discussion of ongoing efforts to curb poaching in Africa. Inspired by the visit of reknowned conservationist **_Craig Packer_** to the University of Michigan, we spoke with photojournalist and documentary filmmaker **_Kate Brooks_** about her first-hand experience at the epicenter of poaching, as well as with **_Drew Cronin_**, a researcher exploring how bushmeat off-take is affecting the abundance of primates in Equatorial Guinea.<!--more-->

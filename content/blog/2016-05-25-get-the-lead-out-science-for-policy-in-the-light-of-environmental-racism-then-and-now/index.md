@@ -2,6 +2,7 @@
 title: "Get the Lead Out: Science for Policy in the Light of Environmental Racism Then and Now"
 date: 2016-05-25
 coverImage: "5150555940_1fcc375122_b-1.jpg"
+entryId: '1_h5chadr1'
 ---
 
 [![Slack for iOS Upload (2)](images/Slack-for-iOS-Upload-2-300x225.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/05/Slack-for-iOS-Upload-2.jpg)It was hot and heavy in the studio this week as _Rob Wolcott_, retired senior counsel at the Environmental Protection Agency, and _Paul Mohai_, Professor at the School of Natural Resources and Environment, joined hosts Ember McCoy, Austin Martin, and Rebecca Hardin to talk about the decision to mandate removal of lead from gasoline and the enduring, harmful lead levels throughout the country.<!--more-->

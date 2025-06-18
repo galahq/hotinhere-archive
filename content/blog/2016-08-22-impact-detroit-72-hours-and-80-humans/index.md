@@ -2,6 +2,7 @@
 title: "Impact Detroit: 72 hours and 80 humans"
 date: 2016-08-22
 coverImage: "9267683887_606c0a6e29_o.jpg"
+entryId: '1_yxqylz3y'
 ---
 
 This week’s episode on _It’s Hot in Here_ highlights the 2016 Ross School of Business [iMpact Challenge](http://michiganross.umich.edu/sanger/impact-challenge) and how social entrepreneurship food ventures can address food access and affordability issues in Detroit.  

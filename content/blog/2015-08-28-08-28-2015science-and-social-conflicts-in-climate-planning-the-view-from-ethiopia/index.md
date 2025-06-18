@@ -20,6 +20,7 @@ tags:
   - "poverty"
   - "sustainability"
 coverImage: "ethiopia_wCredit.jpg"
+entryId: '1_uv7uy9ss'
 ---
 
 This show brings lively conversation on the challenges of climate change planning, both in Ethiopia and across the diverse governance landscapes of East and North Africa. Tied  with the [Gala case study on climate adaptation in Ethiopia](https://bit.ly/2UYDVHD)  this podcast explores the complexity of crafting effective and equitable adaptation policy. Specifically, we ask how national adaptation plans are made? By and for whom? What are the decision-making criteria? And what could these criteria fail to account for? Bringing together legal, economic, anthropological, and environmental expertise, we take adaptation policy as the starting point for broad-ranging dialogue on climate change impacts, social conflict across ethno-linguistic groups, and national planning as a tool that can either address or worsen marginalization.

@@ -1,6 +1,7 @@
 ---
 title: "Carbon Confidential: Calculating and Changing our Footprints"
 date: 2016-08-11
+entryId: '1_7lhtfca4'
 ---
 
 [![img_3729_720](images/img_3729_720-300x225.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/08/img_3729_720.jpg)Economist Ghislain Dubois does lots of quantitative analyses of environmental policy and practice, including field studies of households in Europe, and specialized treatments of large datasets. He has taught in Universities from Versailles to the Sorbonne and Aix en Provence and is currently working on projects about the future of water resources in the middle east, as well as running games and surveys to assist families, home owners and businesses with carbon reduction scenarios for their future.

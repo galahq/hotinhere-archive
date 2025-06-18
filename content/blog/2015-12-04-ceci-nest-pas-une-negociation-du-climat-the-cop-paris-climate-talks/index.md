@@ -10,6 +10,7 @@ tags:
   - "united-nations"
   - "university-of-michigan"
 coverImage: "5238554034_3e4fdabd94_b.jpg"
+entryId: '1_w5x33m11'
 ---
 
 This week's show gave our listeners insight into the [21st Conference of Parties (COP21),](http://www.cop21paris.org/) a conference of world leaders under the United Nations Framework Convention on Climate Change (UNFCCC). Our hosts, _Harry Rice, Ed Waisanen, Bailey Schneider,_ and _Rebecca Hardin_ were joined in studio by members of the [University of Michigan Climate Change Delegation](https://climateblueum.wordpress.com/2009/11/23/um-cop-15/) and the ground control team that's supporting them at the climate negotiations in Paris. We were also joined by _V Epshteyn_ and _Ellen Loubert_ from [UM Divest and Invest](http://www.divestum.org/) to hear about some local action that is taking place on the University of Michigan campus and in Ann Arbor.

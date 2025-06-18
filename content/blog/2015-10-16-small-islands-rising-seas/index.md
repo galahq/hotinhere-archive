@@ -6,6 +6,7 @@ tags:
   - "environmental-justice"
   - "ocean"
 coverImage: "South_Tarawa_from_the_air.jpg"
+entryId: '1_y1fbpy06'
 ---
 
 This week’s show begins a three part series on the topic of climate change. The first show in the set discusses the vulnerability of small islands. The second will consider cities as places that also reflect unjust risk distribution and vulnerability (whether through heat islands, or other phenomena). The third will consider climate adaptation strategies of Michigan's cherry and grape producers.

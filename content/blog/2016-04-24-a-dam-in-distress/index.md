@@ -2,6 +2,7 @@
 title: "Undoing Dams?"
 date: 2016-04-24
 coverImage: "umbs.jpg"
+entryId: '1_2mtbdi3o'
 ---
 
 [![Slack for iOS Upload (1)](images/Slack-for-iOS-Upload-1-225x300.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/04/Slack-for-iOS-Upload-1.jpg)This week's It's Hot in Here segment delves  into the state of dams across our country's river systems.  We are joined on this expedition by Dr. [Paul Moore](https://www.bgsu.edu/arts-and-sciences/biological-sciences/faculty-and-staff/alphabetical-listing/paul-moore.html), who brought members of his research team  up from [Bowling Green State University](https://www.bgsu.edu/) to shore up our knowledge before their teaching and fieldwork at the UM Biostation this summer.

@@ -8,6 +8,7 @@ tags:
   - "economics"
   - "infrastructure"
 coverImage: "Arriver_de_chinois_dans_notre_societé.jpg"
+entryId: '1_mx8tibta'
 ---
 
 This week on _It’s Hot in Here_, hosts Amanda Kaminsky, Neal McKenna, and Brendan Wu discuss China-Africa relations with Dr. Omolade Adunbi, an Assistant Professor in the University of Michigan’s Department of Afroamerican and African Studies. Amanda, Neal and Brendan are all students in Dr. Adunbi’s new winter course, _When China Comes to Town: Environment and the Politics of Development_ (AAS 458)_._ The course covers Chinese foreign development policy in Africa and across the Global South.

@@ -5,6 +5,7 @@ tags:
   - "climate-change"
   - "cop"
   - "solar-energy"
+entryId: '1_fdo1p04z'
 ---
 
 ![Picture](images/1596373_orig1.png)

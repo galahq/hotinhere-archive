@@ -7,6 +7,7 @@ tags:
   - "social-work"
   - "stewardship"
 coverImage: "hands.jpg"
+entryId: '1_oxdznejc'
 ---
 
 This week's environmental news, views, and grooves bring hosts Rebecca Hardin and Emily Durand to the world of social work. Through their discussions with [Dr. Lucy Lawrence](http://inside.warren-wilson.edu/includes/staff_bios.php?user=llawrence), professor of social work at [Warren Wilson College](https://www.warren-wilson.edu/) in Asheville, NC, our hosts delve deep into the environmental movements happening in the field.

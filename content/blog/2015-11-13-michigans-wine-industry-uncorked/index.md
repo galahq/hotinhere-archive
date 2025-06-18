@@ -11,6 +11,7 @@ tags:
   - "sustainability"
   - "wine"
 coverImage: "16808734533_faf56c1f67_z.jpg"
+entryId: '1_9e4jzuft'
 ---
 
 Our second segment in the three part series, "Please, Drink Sustainably" takes our hosts Alex Truelove, Becca Baylor, and Rebecca Hardin to the vineyards of Michigan with the help of [Black Star Farms](http://www.blackstarfarms.com/)' managing member and winemaker, Lee Lutes, and principal and co-founder of [5 Lakes Energy](http://5lakesenergy.com/), Liesl Clark.

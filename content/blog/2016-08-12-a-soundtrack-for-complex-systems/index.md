@@ -2,6 +2,7 @@
 title: "A Soundtrack for Complex Systems"
 date: 2016-08-12
 coverImage: "IMG_6752.jpg"
+entryId: '1_h8ne00zu'
 ---
 
 [Loren Demerath](http://ldemerath.wixsite.com/home) is a Professor of Sociology at Centenary College of Louisiana. With the help professors from Chemistry, Computer Sciences, Economics, Philosophy, and English, Demerath recently taught a course entitled: [Explaining the Emergence of Order: the Universe, Life, Consciousness, and Society](https://docs.google.com/document/d/1BbjVCQgJfNzSnc7EvDJwKt82kKQiX2k2mEb0PlxR1OI/edit?usp=sharing) to introduce students to the study of complexity across disciplines. Here at the University of Michigan check out the [Center for the Study of Complex Systems.](https://lsa.umich.edu/cscs) 

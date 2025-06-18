@@ -6,6 +6,7 @@ tags:
   - "oceans"
   - "plastic"
 coverImage: "ocean-plastic-debunking-6-4-15-thumb-630x420-93492.jpg"
+entryId: '1_yfvrnjpn'
 ---
 
 [![sail-boat](images/sail-boat-300x225.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/04/sail-boat.jpg)After a journey across the cold waters of the Atlantic Ocean in a small sailboat, [Jen Pate](http://www.jenniferpate.com/), director of [eXXpedition](http://exxpedition.com/): _Seeing the Unseen_, had a breezy time in the studio with hosts Harry Rice and Arman Golrokhian.  Jen was in Ann Arbor to show the documentary as part of the Earth Day Film Festival.  The film follows an all-woman team as they cross the Atlantic Ocean, assessing the load of plastics in the ocean and exploring the burden that toxic chemicals from these plastics place on our bodies.

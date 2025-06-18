@@ -2,6 +2,7 @@
 title: "Mayan Power & Light"
 date: 2016-09-16
 coverImage: "Mayan-Power.jpg"
+entryId: '1_v02ygkcx'
 ---
 
 _John Barrie ,_ founder and executive director of the Appropriate Technology Collaborative, recently won recognition for that organization[![learning_about_solar_power](images/Learning_About_Solar_Power-300x260.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/09/Learning_About_Solar_Power.jpg) as one of the [Sustainia Top 100 Sustainability Solutions of 2016](http://www.sustainia.me/solutions/). Why? Because they create new sustainable technologies that promote economic growth and improve the quality of life for low income people worldwide.

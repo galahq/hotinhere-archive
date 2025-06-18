@@ -2,6 +2,7 @@
 title: "Doris Duke Conservation Scholars Program"
 date: 2016-07-08
 coverImage: "IMG_6636.jpg"
+entryId: '1_5x6ze65f'
 ---
 
 Danielle Moni-Zo'obo and Malia Molina join us from the Doris Duke Conservation Scholars Program at the University of Michigan. This summer, they have been working with Dr. Rebecca Hardin's Michigan Sustainability Cases (MSC) team, working on projects ranging from wolf hunting in Michigan to training 1,000 OB-GYN's in Sub-Saharan Africa. In this show, they lead an in-depth conversation on educating listeners on what exactly the Doris Duke Conservation Scholars Program is trying to achieve.

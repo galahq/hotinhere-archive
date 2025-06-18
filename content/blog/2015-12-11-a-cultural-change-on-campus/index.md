@@ -2,6 +2,7 @@
 title: "A Cultural Change on Campus"
 date: 2015-12-11
 coverImage: "planet-blue.jpg"
+entryId: '1_wxudguxg'
 ---
 
 This week's show featured a new method of conducting the show. Our hosts Becca Baylor, Alex Truelove, Bailey Schneider, and Harry Rice had a roundtable discussion about the changes occurring around campus.

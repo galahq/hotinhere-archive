@@ -8,6 +8,7 @@ tags:
   - "lovefest"
   - "university-of-michigan"
 coverImage: "IMG_0042.jpg"
+entryId: '1_zqwzb01y'
 ---
 
 In this episode, we spoke with movers and shakers in Southeast Michigan’s local food and land conservation scene.  With the 8th Annual Homegrown Local Food Summit recently behind us, we discussed its growth over the years, and its developing importance to the community.  Lindsey Scelera shared with us some of this year's food victories as well as the victories that have come about in years past, including current Ann Arbor staples like Mark's Carts.  Keith Soster tells us more about U-M's goals for locally sourced food and what they're doing to get there, as well as how students can get involved.

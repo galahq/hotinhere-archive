@@ -8,6 +8,7 @@ tags:
   - "fungi"
   - "outdoor-activities"
 coverImage: "5447894.png"
+entryId: '1_8uqtq582'
 ---
 
 This week our special in studio guest is Philip Tedischi, Past President and current Vice President of the Michigan Mushroom Hunters Club, Phil is a "real fungi." We learned during our time in studio that he served as engineer for WCBN FM back in his days as an undergraduate at UM in the 1960s, but also boasts a total of 5 advanced degrees from the university of MI, including a PhD in Computer Science. Phil was joined on the mike by contemporary DJ Rodney, a Saline, MI resident who stopped on his way out of the studios after his show to ask a few choice questions about Morrell mushrooms. Tune in and learn along with Rodney! Phil is a real authority, and leads mushroom hunts on many fall weekends.
