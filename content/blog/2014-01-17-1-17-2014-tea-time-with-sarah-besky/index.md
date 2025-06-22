@@ -12,6 +12,7 @@ tags:
   - "snre"
   - "tea"
   - "university-of-michigan"
+entryId: '1_gl5nxt3z'
 ---
 
 ![Picture](images/4549518_orig1.jpg)

@@ -1,6 +1,7 @@
 ---
 title: "Energy Extravaganza!"
 date: 2015-04-17
+entryId: '1_0pdcwtw7'
 ---
 
 ![Picture](images/14293863881.jpg)

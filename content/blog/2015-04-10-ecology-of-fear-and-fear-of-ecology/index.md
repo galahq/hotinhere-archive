@@ -4,6 +4,7 @@ date: 2015-04-10
 tags: 
   - "featured"
 coverImage: "fear-of-ecology_credit-3.jpg"
+entryId: '1_h8pg6nrj'
 ---
 
 The theme of this week’s segment of _It’s Hot In Here_, the radio show bringing you environmental news, views, and grooves from SNRE students, faculty, and the many practitioners in southeast Michigan and beyond was **Ecology of Fear and Fear of Ecology — Can Science do More to Improve Human-Wildlife Cohabitation?** Our hosts were joined in-studio and by pre-recorded interviews by guests including, **Dr. Matthew Kauffman** from the Wyoming Migration Initiative, **Maurita Holland** from the Washtenaw Citizens for Ecological Balance, and **Mayank Vikas** from the UM School of Natural Resources and Environment.
