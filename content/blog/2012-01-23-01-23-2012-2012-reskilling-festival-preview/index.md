@@ -5,6 +5,7 @@ tags:
   - "ann-arbor"
   - "diy"
   - "preservation"
+entryId: '1_ouyseu77'
 ---
 
 ![](images/ReSkilling-Word1.jpg)

@@ -3,6 +3,7 @@ title: "04.11.2011 | Energy, Budgets, Birds"
 date: 2011-04-11
 tags: 
   - "energy"
+entryId: '1_r7ym0dpw'
 ---
 
 ![Picture](images/3381128_orig1.jpg)

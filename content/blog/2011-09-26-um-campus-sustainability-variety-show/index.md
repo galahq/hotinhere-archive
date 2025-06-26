@@ -4,6 +4,7 @@ date: 2011-09-26
 tags: 
   - "sustainability"
   - "university-of-michigan"
+entryId: '1_9dggjotx'
 ---
 
 ![Picture](images/4312389_orig1.jpg)

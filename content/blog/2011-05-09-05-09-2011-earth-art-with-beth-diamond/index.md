@@ -9,6 +9,7 @@ tags:
   - "environmental-justice"
   - "snre"
   - "university-of-michigan"
+entryId: '1_nlgfuz73'
 ---
 
 ![](images/Beth_Diamond_web1.jpg)

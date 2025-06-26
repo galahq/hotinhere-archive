@@ -7,6 +7,7 @@ tags:
   - "environment"
   - "environmental-justice"
   - "non-profit"
+entryId: '1_qmz87za8'
 ---
 
 ![Picture](images/887430_orig1.jpg)

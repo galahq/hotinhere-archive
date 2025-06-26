@@ -11,6 +11,7 @@ tags:
   - "sustainability"
   - "transportation"
   - "university-of-michigan"
+entryId: '1_1lm7uq0o'
 ---
 
 ![](images/IHIH-Turkey-Travel1.jpg)

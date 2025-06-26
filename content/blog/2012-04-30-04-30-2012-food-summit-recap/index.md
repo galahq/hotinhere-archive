@@ -1,6 +1,7 @@
 ---
 title: "Food Summit Recap"
 date: 2012-04-30
+entryId: '1_vyjr2wsi'
 ---
 
 ![](images/IHIH-foodsummit_0430121.jpg)

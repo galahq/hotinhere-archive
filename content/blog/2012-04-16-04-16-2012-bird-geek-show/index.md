@@ -3,6 +3,7 @@ title: "Bird Geek Show"
 date: 2012-04-16
 tags: 
   - "ornithology"
+entryId: '1_dzkv371f'
 ---
 
 ![](images/bird-show1.jpg)

@@ -8,6 +8,7 @@ tags:
   - "information"
   - "snre"
   - "university-of-michigan"
+entryId: '1_srzgjx2r'
 ---
 
 ![Picture](images/4098865_orig1.jpg)

@@ -9,6 +9,7 @@ tags:
   - "university-of-michigan"
   - "wcbn"
 coverImage: "0531scarypig1.jpg"
+entryId: '1_6jlf1aw7'
 ---
 
 Consumption is nec­es­sary for survival but also produces negative con­se­quences for human health, society, and the envi­ron­ment. Research across domains (addic­tion, obesity, debt, consumer behavior, material waste, hoarding) finds over­lap­ping bio­log­ical and psy­cho­log­ical bases for consumption-​​related phe­nomena, sug­gesting the benefits of an inter­dis­ci­pli­nary approach. Our guests Scott Rick and Stephanie Preston joined us  in the studio right before the holidays to unpack these themes of societal consumption.

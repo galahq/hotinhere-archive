@@ -1,6 +1,7 @@
 ---
 title: "05.23.2011 | Change. Chicken. Curiosity. Clean Air."
 date: 2011-05-23
+entryId: '1_7du94vdm'
 ---
 
 ![Picture](images/9466936_orig1.jpg)

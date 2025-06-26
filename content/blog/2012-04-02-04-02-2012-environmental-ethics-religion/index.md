@@ -7,6 +7,7 @@ tags:
   - "faith"
   - "religion"
   - "stewardship"
+entryId: '1_1idhamtc'
 ---
 
 ![Picture](images/703012_orig1.jpg)
