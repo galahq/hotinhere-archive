@@ -2,6 +2,7 @@
 title: "Sounds of Gratitude"
 date: 2017-11-25
 coverImage: "Bach-BWV1007-Prelude-TAB-Preview.png"
+entryId: '1_624o7qtg'
 ---
 
 This week on _It's Hot In Here_ radio, those lucky enough to enter the WCBN studios were greeted by the warm and rich tones of the cello and baroque flute warming up to play. On flute was T_aya König-Tarasevich_, who has studied music in Siberia, Freiburg Germany and Ann Arbor Michigan and now plays from New York City where she lives with her husband. On the cello was Ann Arbor native and Community High alumna _[Anna Steinhoff](https://annasteinhoff.com/about-2/)_. Described by critics as “soulful,” and “the rhythmic heart of the ensemble", she has studied music at Oberlin and Northwestern University. She is still currently based in the Chicago area. Also joining us on the mic is pianist _Shin Hwang_. Shin is a prize-winner of the 1st International Westfield Fortepiano Competition, and a versatile keyboardist who has won recognition in both modern and historical performance. After completing his master’s degree at the University of Michigan with Penelope Crawford and Arthur Greene, he received the prestigious Fulbright Grant to study in the Netherlands at the Royal Conservatory of the Hague. This is not Taya's first time on _It's Hot In Here_, and her past performance can be found [here](http://www.hotinhere.us/2016/04/a-musical-exploration-with-taya-konig-tarasevich/).

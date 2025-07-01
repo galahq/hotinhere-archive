@@ -15,6 +15,7 @@ tags:
   - "university-of-michigan"
   - "wcbn"
 coverImage: "HIH_house-greening_Feb6.jpg"
+entryId: '1_nx88z2c3'
 ---
 
 \[embed\]https://archive.org/embed/SNREHotInHere/2012-02-06\_House\_Greening.mp3\[/embed\]

@@ -7,6 +7,7 @@ tags:
   - "environmental-justice"
   - "snre"
   - "university-of-michigan"
+entryId: '1_w51cjaea'
 ---
 
 ![Picture](images/9663848_orig1.png)

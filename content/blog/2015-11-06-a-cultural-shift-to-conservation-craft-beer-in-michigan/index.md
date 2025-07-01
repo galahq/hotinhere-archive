@@ -10,6 +10,7 @@ tags:
   - "michigan"
   - "sustainability"
 coverImage: "beer.jpeg"
+entryId: '1_hm8w3iql'
 ---
 
 In this first episode of our three part series called "Please, Drink Sustainably,” our guests Kris Spaulding, co-founder of [Brewery Vivant](http://www.breweryvivant.com/), and Brian Tennis, owner and operator of the [Michigan Hop Alliance](http://michiganhopalliance.com/) taught hosts Harry Rice, Becca Baylor, Ed Waisanen, and Alex Truelove all about the sustainability innovations in beer production happening right here in the mitten.

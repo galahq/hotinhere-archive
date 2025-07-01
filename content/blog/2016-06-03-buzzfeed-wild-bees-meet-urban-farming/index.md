@@ -2,6 +2,7 @@
 title: "BuzzFeed: Wild Bees Meet Urban Farming"
 date: 2016-06-03
 coverImage: "2-golden-dusting-1600-1.jpg"
+entryId: '1_yl1dafp5'
 ---
 
 It's summertime and our backyards are abuzz with bees!

@@ -2,6 +2,7 @@
 title: "How did the Environment Fare in the Midterms?"
 date: 2018-11-10
 coverImage: "josh-carter-1137080-unsplash.jpg"
+entryId: '1_yj0eas3i'
 ---
 
 On today's show, the IHIH gang share their hot takes on what the recent midterm elections mean for the environment moving forward. Bella breaks down a special millage proposal in her native Ingham County that [protects certain farmlands and open spaces](https://www.wlns.com/news/this-morning-breakdown-of-ingham-county-proposals-before-election/1573695258) against urban development, and the Ann Arborite in the room (Ed) shares his thoughts on the city's passage of Proposal A, which nixes Mayor Christopher Taylor's deal with Chicago-based developer Core Spaces in order [to turn the city-owned Liberty Lot into an urban green space.](https://www.mlive.com/news/ann-arbor/index.ssf/2018/10/debate_over_ann_arbor_central_1.html) 

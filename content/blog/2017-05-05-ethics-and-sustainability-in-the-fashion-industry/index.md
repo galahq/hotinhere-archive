@@ -2,6 +2,7 @@
 title: "Ethics and Sustainability in the Fashion Industry"
 date: 2017-05-05
 coverImage: "20170505_125938.jpg"
+entryId: '1_9spu5cy0'
 ---
 
 In this week's episode of It's Hot in Here, host _Chris Askew-Merwin_ is joined in studio by two esteemed guests to explore the fashion industry's impacts on the environment and on the workers who manufacture the apparel and shoes we all consume.

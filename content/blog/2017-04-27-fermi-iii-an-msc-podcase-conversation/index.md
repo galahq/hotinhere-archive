@@ -2,6 +2,7 @@
 title: "Fermi III: An MSC Podcase Conversation"
 date: 2017-04-27
 coverImage: "6601EFF6-7EDE-4B98-8C70-998317837105-e1493385215227.jpg"
+entryId: '1_myac8fpo'
 ---
 
 And the hits just keep coming... this week we feature our latest release in the Michigan Sustainability Case lineup, "[A Radioactive Decision: Should DTE Energy Build a new Nuclear Reactor in Michigan?](https://www.learnmsc.org/cases/dte-fermi-iii)"

@@ -14,6 +14,7 @@ tags:
   - "sustainability"
   - "university-of-michigan"
   - "waste"
+entryId: '1_idv4hvg4'
 ---
 
 ![Picture](images/12021421.jpg)

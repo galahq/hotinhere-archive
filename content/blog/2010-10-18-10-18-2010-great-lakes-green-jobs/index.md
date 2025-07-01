@@ -5,6 +5,7 @@ tags:
   - "business"
   - "detroit"
   - "energy"
+entryId: '1_en9yl9lf'
 ---
 
 ![Picture](images/2328831_orig1.jpg)

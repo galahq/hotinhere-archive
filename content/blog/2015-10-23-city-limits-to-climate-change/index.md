@@ -9,6 +9,7 @@ tags:
   - "government"
   - "policy"
 coverImage: "Picture12.png"
+entryId: '1_qbnnbt3s'
 ---
 
 Today’s show, the second in a three part climate change series, discusses climate justice in cities from Detroit to Paris, site of the upcoming United Nations Conference of Parties on  Climate Change. In other news, the studio may just never have been this hot before; we were tempted to pour our water over our heads. <!--more-->

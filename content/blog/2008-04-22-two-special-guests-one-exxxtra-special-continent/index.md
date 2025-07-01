@@ -3,6 +3,7 @@ title: "Two Special Guests, One Exxxtra Special Continent"
 date: 2008-04-22
 tags: 
   - "africa"
+entryId: '1_m9ona6z1'
 ---
 
 Join us for groovy jams, news spannin’ the continent, and VERY special guests Rebecca Hardin, Professor of Anthropology and Natural Resources at UM AND our very own Washington correspondent/​SNRE success story, Kerry Duggan.

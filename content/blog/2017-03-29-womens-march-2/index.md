@@ -9,6 +9,7 @@ tags:
   - "social-justice"
   - "washington-dc"
 coverImage: "IMG_1301.jpg"
+entryId: '1_q3f7fgl6'
 ---
 
 In this episode of It's Hot In Here, we catch up with some SNRE students who attended the Women's March in Washington, D.C. a few weeks ago.

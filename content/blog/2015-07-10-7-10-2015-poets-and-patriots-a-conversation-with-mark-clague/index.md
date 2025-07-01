@@ -6,6 +6,7 @@ tags:
   - "music"
   - "patriotism"
 coverImage: "348261_orig.png"
+entryId: '1_1z339jvo'
 ---
 
 Join us this week for a patriotic (and musical) edition of It's Hot in Here as we discuss symbols of American pride (or are they?), the cultural context from which Jimi Hendrix's rendition of the Star Spangled Banner at Woodstock arose, the newest news concerning the Geddes road expansion and the fate of the surrounding trees, and more!

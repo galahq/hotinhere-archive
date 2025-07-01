@@ -2,6 +2,7 @@
 title: "Transportation's Future: Multi-Modal, IT-Enabled"
 date: 2017-01-13
 coverImage: "SMART.jpg"
+entryId: '1_r12hfhr6'
 ---
 
 In this week's episode of It's Hot in Here, your host _Chris Askew-Merwin_ investigates the future of transportation by speaking on the phone with _Sue Zielinski_, Managing Director for SMART (Sustainable Mobility & Accessibility Research & Transformation) at the University of Michigan. Listen as _Sue_ explains how transportation is moving away from a culture of individually owned cars towards a future with a diversity of choices all connected through information technologies allowing consumers like you or I, to effortlessly navigate through urban and rural areas whether by train, plane, bicycle, or car.

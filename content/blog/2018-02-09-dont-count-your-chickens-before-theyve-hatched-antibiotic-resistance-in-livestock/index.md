@@ -2,6 +2,7 @@
 title: "Don't Count Your Chickens Before They've Hatched: Antibiotic Resistance in Livestock"
 date: 2018-02-09
 coverImage: "ChickenAD.jpg"
+entryId: '1_mgn10msc'
 ---
 
 The use of antibiotics in animal husbandry has promoted not only antibiotic-resistant bacteria among livestock but also spillover between other livestock, wildlife, and humans. On this episode, guest and Ph.D candidate Hayden Hedman and SEAS graduate student Priscilla Papillas joined host Ben Sonnega and Bella Isaacs to discuss their work studying the spillover of antibiotic-resistant bacteria and how agricultural practices affect the ecology and evolution of antimicrobial resistance within a tropical agricultural setting.

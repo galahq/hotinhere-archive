@@ -6,6 +6,7 @@ tags:
   - "detroit"
   - "farming"
 coverImage: "Sustain-IHIH.jpg"
+entryId: '1_ldi8opq8'
 ---
 
 This week we turned our gaze to Detroit with the help of guest-hosts Jack Hyland, a U of M a student of art and design, and Shan Sutherland, a Masters of Architecture student at the Taubman College of Architecture and Planning.  Shan has worked on a number of architecture projects in Hamtramck and Detroit and we kicked off the show by grilling him about [Power House Productions](http://www.powerhouseproductions.org/), an organization that has built a number of community installations by cannibalizing materials from abandon structures; including [Squash house](http://www.powerhouseproductions.org/projects/squash-house/), a “sculptural sports arena and greenhouse.” Shan also told us about [Afterhouse](http://www.architectmagazine.com/awards/r-d-awards/award-afterhouse_o), a “semi subterranean passive geothermal greenhouse,” built on the foundation of an abandoned house.

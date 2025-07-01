@@ -8,6 +8,7 @@ tags:
   - "sustainability"
   - "university-of-michigan"
   - "waste"
+entryId: '1_0bdgomiv'
 ---
 
 ![Picture](images/4375326_orig1.jpg)

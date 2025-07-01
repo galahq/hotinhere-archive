@@ -2,6 +2,7 @@
 title: "Renaissance Man: The Penny Seats and their first Local Playwrite"
 date: 2017-06-30
 coverImage: "IMG_0031-e1498865934761.jpg"
+entryId: '1_7tzz5di6'
 ---
 
 Our story begins One Dark Night…

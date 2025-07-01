@@ -2,6 +2,7 @@
 title: "We needed the world to know: We Are In Xanadu"
 date: 2016-07-24
 coverImage: "Artboard-1.png"
+entryId: '1_ds9yvzll'
 ---
 
 We were delighted once again to welcome members of Ann Arbor’s Penny Seats Theatre Company to talk theater in the parks and perform a few tunes from their ongoing show. Xanadu is an outrageous show that defies simple explanation: suffice it to say the Muses go to Venice Beach to inspire a sidewalk chalk artist to open a roller disco. You really have to see it to believe, but hearing them sing a few numbers and talk about their process on today’s show is sure to pique your interest.![IMG_3627](images/IMG_3627.jpg) Xanadu runs through July 30th, Thurs.–Sat. at 7 PM in the West Park Band Shell. You’ve only got a week left!<!--more-->

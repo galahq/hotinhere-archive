@@ -1,6 +1,7 @@
 ---
 title: "Special Interview with Mark Binelli re: Detroit City is the Place to Be"
 date: 2013-11-18
+entryId: '1_95lwpk4v'
 ---
 
 <iframe src="https://archive.org/embed/BinelliNovember62013155220.032" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

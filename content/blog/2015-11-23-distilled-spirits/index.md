@@ -7,6 +7,7 @@ tags:
   - "michigan"
   - "sustainability"
 coverImage: "Screen-Shot-2015-11-19-at-10.47.36-AM1.png"
+entryId: '1_1o5stffv'
 ---
 
 Our hosts Alex Truelove, Ed Waisanen, and Bailey Schneider  wrapped up our three part series, “Please, Drink Sustainably” with a vibrant discussion on distilled spirits with distiller and marketing director at [Journeyman Distillery](http://www.journeymandistillery.com/) in Three Oaks, Michigan, Nick Yoder, and co-owner and operator of [Cafe Zola](http://www.cafezola.com/) in Ann Arbor, Michigan, Alan Zakalik.

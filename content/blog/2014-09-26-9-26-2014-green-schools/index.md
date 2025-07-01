@@ -4,6 +4,7 @@ date: 2014-09-26
 tags: 
   - "detroit"
   - "education"
+entryId: '1_3ug4wcf4'
 ---
 
 ![Picture](images/14122098811.jpg)

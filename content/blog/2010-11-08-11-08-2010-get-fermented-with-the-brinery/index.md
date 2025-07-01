@@ -5,6 +5,7 @@ tags:
   - "ann-arbor"
   - "business"
   - "food"
+entryId: '1_k2ibzbls'
 ---
 
 ![Picture](images/3450922_orig1.png)

@@ -13,6 +13,7 @@ tags:
   - "michigan"
   - "non-profit"
   - "stewardship"
+entryId: '1_c2wxqzo6'
 ---
 
 ![Picture](images/7762169_orig1.jpg)

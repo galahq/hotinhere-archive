@@ -10,6 +10,7 @@ tags:
   - "michigan"
   - "wolves"
 coverImage: "614874_orig1.jpg"
+entryId: '1_m4uhlwja'
 ---
 
 On this week's show: Rebecca Hardin phones in from the wilds of Traverse City to discuss the virtuous adventures of interactive environmental learning; a long time listener, first time caller, and Michigan native fills us in on his favorite outdoor spots for maximizing our Michigan summer enjoyment; IHIH production team member Sam Molnar talks about his exciting work with the Great Lakes Commission; and we listen to new (and old) tracks from JJ's favorite band the Unknown Mortal Orchestra! Links below!

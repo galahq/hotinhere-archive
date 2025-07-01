@@ -2,6 +2,7 @@
 title: "Epsilon Eta: The UofM Professional Environment Fraternity"
 date: 2018-01-13
 coverImage: "image-1.png"
+entryId: '1_oolhr87x'
 ---
 
 Originating in 2015, undergraduates at the University of Michigan interested in environment found a new home at the Epsilon Eta Fraternity. While there is no physical fraternity house designated on campus, _It's Hot In Here_ guests and current Epsilon Eta members Sam, Lizzie, Samuel, and Brett showed us that the fellowship and familial closeness of a fraternity was far from lost on them. They joined regular host Ben Sonnega to share their experiences with the fraternity, reasons for joining, and thoughts on a number of environmental topics. [![](images/unnamed-300x198.jpg)](http://www.hotinhere.us/wp-content/uploads/2018/01/unnamed.jpg)

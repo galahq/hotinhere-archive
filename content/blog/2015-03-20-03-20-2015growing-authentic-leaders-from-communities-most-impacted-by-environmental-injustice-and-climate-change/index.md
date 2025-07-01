@@ -19,6 +19,7 @@ tags:
   - "stewardship"
   - "university-of-michigan"
   - "wcbn"
+entryId: '1_czw02ydt'
 ---
 
 ![Picture](images/1794493_orig1.png)

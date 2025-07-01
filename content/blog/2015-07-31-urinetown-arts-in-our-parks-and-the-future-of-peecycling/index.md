@@ -6,6 +6,7 @@ tags:
   - "featured"
   - "music"
 coverImage: "Urin-town-3.jpg"
+entryId: '1_64dsw1v0'
 ---
 
 A local artistic and scientific collaboration between Ann Arbor’s [Penny Seats Theatre Company](http://www.pennyseats.org/) and the University of Michigan's [Environmental Biotechnology Group](http://envbiotech.engin.umich.edu/) is offering performances of the musical _[Urinetown](http://www.pennyseats.org/event/264fb53e28b9c2c2b0679a4142ad1bcc)_: _The Musical!_ as well as innovative water conservation research over the next three weekends starting July 30.<!--more-->

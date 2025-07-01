@@ -9,6 +9,7 @@ tags:
   - "global"
   - "sustainability"
 coverImage: "Chapulines.jpg"
+entryId: '1_78b9z0de'
 ---
 
 Did you know that insects form part of the traditional diet of [an estimated 2 billion peopl](http://www.fao.org/docrep/018/i3253e/i3253e.pdf)e on the planet? And that even those of us who actively avoid all contact with bugs [can't avoid ingesting a pound or two](http://www.salon.com/2013/06/05/your_breakfast_of_champions_includes_bugs_partner/) of flies, maggots, and other bugs without knowing it _every year?_ Insects aren't the future of food--they're very much part of our present reality!

@@ -6,6 +6,7 @@ tags:
   - "environmental-justice"
   - "michigan"
   - "snre"
+entryId: '1_8bpymx1j'
 ---
 
 ![Picture](images/4556308_orig1.png)

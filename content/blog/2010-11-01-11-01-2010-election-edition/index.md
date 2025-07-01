@@ -3,6 +3,7 @@ title: "11.01.2010 | Election Edition"
 date: 2010-11-01
 tags: 
   - "policy"
+entryId: '1_jptwitca'
 ---
 
 ![Picture](images/4523685_orig1.jpg)

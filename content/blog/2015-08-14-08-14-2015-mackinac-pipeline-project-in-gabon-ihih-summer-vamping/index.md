@@ -12,6 +12,7 @@ tags:
   - "michigan"
   - "renewable-energy"
   - "sustainability"
+entryId: '1_k3oup3xp'
 ---
 
 \*Vamping is to repeat a short, simple passage of music until otherwise instructed.

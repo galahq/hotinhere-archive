@@ -2,6 +2,7 @@
 title: "The Women's March"
 date: 2017-01-21
 coverImage: "Womens-March-Chicago.jpg"
+entryId: '1_j5ykzz2n'
 ---
 
 This inauguration weekend is coupled with an act of resistance: a Women's March on Washington with sister marches happening across the globe in solidarity with socially marginalized individuals under a Trump presidency. Traveling all the way from Ann Arbor to be a part of the action are a group of students from our own School of Natural Resources and the Environment at the University of Michigan who were compelled to demonstrate to defend women, the environment, and environmental justice.

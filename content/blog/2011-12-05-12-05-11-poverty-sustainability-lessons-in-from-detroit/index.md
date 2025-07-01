@@ -13,6 +13,7 @@ tags:
   - "sustainability"
   - "university-of-michigan"
   - "wcbn"
+entryId: '1_2hguponu'
 ---
 
 ![](images/IHIH-Detroit11.jpg)

@@ -6,6 +6,7 @@ tags:
   - "music"
   - "spring"
 coverImage: "IMG_6177.jpg"
+entryId: '1_clv37wx2'
 ---
 
 This week’s episode features three University of Michigan music students discussing their spring compositions and performances. Rachel Epperly, a composition undergraduate, begins the show with a piece of hers called “Time Arrives.” Donia Jarrar spoke to us about her recent composition work, _Seamstress_. And Taya König-Tarasevich, pictured, spoke about the three flutes she’ll play in her [Masters Recital](https://events.umich.edu/event/30364).

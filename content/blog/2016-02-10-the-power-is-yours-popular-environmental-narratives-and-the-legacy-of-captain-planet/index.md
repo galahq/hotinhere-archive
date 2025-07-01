@@ -6,6 +6,7 @@ tags:
   - "population"
   - "television"
 coverImage: "12896651754_6401784ea2_h.jpg"
+entryId: '1_hbv3im0a'
 ---
 
 This week we took a break from the [exciting](http://www.hotinhere.us/2016/01/maintaining-the-lions-den-with-craig-packer/)\-but-[heavy](http://www.hotinhere.us/podcast/financing-biodiversity-conservation-the-case-of-the-birds-head-seascape/) [subject matter](http://www.hotinhere.us/podcast/last-animals-lasting-solutions-lions-the-last-animals-and-conservation-strategies/) that has occupied the It's Hot in Here crew as of late, in order to mull-over the legacy of Captain Planet--perhaps the most recognizable environmentally-themed character of the 21st century, the product of a children's television show no less!

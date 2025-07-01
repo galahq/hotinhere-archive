@@ -2,6 +2,7 @@
 title: "Breakthrough Innovations in the Developing World"
 date: 2016-05-07
 coverImage: "poster_RockyShow.png"
+entryId: '1_fesvhagx'
 ---
 
 We have all heard of a carbon footprint. But what is an Ecological Handprint? Professor [Rocky Rohwedder](http://www.sonoma.edu/ensp/faculty/faculty/rocky-rohwedder.html) of Sonoma State University, and a University of Michigan alum, joined us here at IHIH to discuss just that.

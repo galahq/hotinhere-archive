@@ -1,6 +1,7 @@
 ---
 title: "11.29.2010 | Getting Fresh in Detroit"
 date: 2010-11-29
+entryId: '1_789gkip1'
 ---
 
 ![Picture](images/4436295_orig1.jpg)

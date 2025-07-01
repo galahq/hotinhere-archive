@@ -9,6 +9,7 @@ tags:
   - "skunks"
   - "wordoftheday"
 coverImage: "Hurricane-Florence.jpg"
+entryId: '1_azal5uf2'
 ---
 
 The IHIH gang talks friendly skunks, free hydrangeas, and rain gardening on this week's episode. Also, Becky, a University of North Carolina-Chapel Hill student, calls in to tell us how Hurricane Florence has affected her community. Also, IHIH novice Aurora introduces a new word-of-the-day segment featuring: "zenith."

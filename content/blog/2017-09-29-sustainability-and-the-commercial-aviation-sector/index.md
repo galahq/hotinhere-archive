@@ -2,6 +2,7 @@
 title: "Sustainability in Commercial Aviation: RMI Research Conversation Part Two"
 date: 2017-09-29
 coverImage: "aviation.jpg"
+entryId: '1_y8nmlz0s'
 ---
 
 For those that care about the mitigation of climate change, it can seem like the list of institutional changes that are needed goes on and on. Luckily we have people like _Noah Feingold_ putting in the time to work on specific and measured solutions.

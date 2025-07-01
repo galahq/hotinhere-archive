@@ -2,6 +2,7 @@
 title: "U of M Bicentennial Celebration and Sustainability Goals"
 date: 2017-10-30
 coverImage: "um_bicentennial.png"
+entryId: '1_otockyp8'
 ---
 
 The University of Michigan's Bicentennial Celebration and the introduction of the new School for Environment and Sustainability, both occurring this weekend got the team at It's Hot In Here feeling reflective. How have we experienced sustainability in our respective times here? What things are [most promising](http://sustainability.umich.edu/about/goals)? Where does the University fall short?

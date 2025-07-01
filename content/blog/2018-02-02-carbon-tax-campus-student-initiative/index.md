@@ -2,6 +2,7 @@
 title: "Carbon Tax Campus Student Initiative"
 date: 2018-02-02
 coverImage: "carbon-tax-cronyism.jpg"
+entryId: '1_hjwrzzbj'
 ---
 
 On this episode of It's Hot In Here, guest Mitchell Mead joined hosts Ben Sonnega and Bella Isaacs to discuss his unique perspective on climate change and the use of a carbon tax to combat it.

@@ -11,6 +11,7 @@ tags:
   - "oceans"
   - "sustainability"
 coverImage: "image-2.jpeg"
+entryId: '1_1wzclz40'
 ---
 
 This week’s broadcast debuts a new partnership between IHIH and Michigan Sustainability Cases (MSC), a new case-based learning platform which integrates podcasts into sustainability curriculum. Hosts Katie Browne and Andrea Kraus first speak with Laure Katz of Conservation International about her role managing the transition of the Bird’s Head Seascape, from donor-supported to fully financially self-sustaining — in four short years. Suffice to say the demands of such a challenge live little time for sleep.

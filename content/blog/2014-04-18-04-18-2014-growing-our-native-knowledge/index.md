@@ -12,6 +12,7 @@ tags:
   - "snre"
   - "stewardship"
   - "university-of-michigan"
+entryId: '1_yowtm4pc'
 ---
 
 ![Picture](images/38701321.jpg)

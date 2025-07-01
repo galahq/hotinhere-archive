@@ -1,6 +1,7 @@
 ---
 title: "Homecoming"
 date: 2013-10-04
+entryId: '1_ig3rcmp7'
 ---
 
 ![Picture](images/20774971.jpg)

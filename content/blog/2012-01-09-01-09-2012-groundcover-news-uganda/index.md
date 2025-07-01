@@ -16,6 +16,7 @@ tags:
   - "sustainability"
   - "university-of-michigan"
   - "wcbn"
+entryId: '1_shpdzivu'
 ---
 
 ![](images/nov_thumbnail1.jpg)

@@ -18,6 +18,7 @@ tags:
   - "snre"
   - "university-of-michigan"
   - "wcbn"
+entryId: '1_gksnt9we'
 ---
 
 ![Picture](images/95102771.jpg) 

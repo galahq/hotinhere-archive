@@ -4,6 +4,7 @@ date: 2015-09-25
 tags: 
   - "education"
 coverImage: "4525541_orig.png"
+entryId: '1_1cfj7h7j'
 ---
 
 # About Camp Davis

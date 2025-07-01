@@ -5,6 +5,7 @@ tags:
   - "affordable-housing"
   - "energy"
   - "indigenous-rights"
+entryId: '1_uf4mkeaj'
 ---
 
 ![Picture](images/56083061.png)

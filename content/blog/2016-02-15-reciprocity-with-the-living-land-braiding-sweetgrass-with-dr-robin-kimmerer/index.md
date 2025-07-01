@@ -8,6 +8,7 @@ tags:
   - "robin-kimmerer"
   - "traditional-knowledge"
 coverImage: "unnamed.jpg"
+entryId: '1_tpqkhp66'
 ---
 
 This week’s show wraps up a series of events at the University of Michigan School of Natural Resources & Environment featuring Dr. Robin Wall Kimmerer, author, teacher, and member of the Citizen Potawatomi Nation. A prominent voice in botany and restoration practices, Dr. Kimmerer is the author of the books [_Braiding Sweetgrass_](https://www.goodreads.com/book/show/17465709-braiding-sweetgrass) and [_Gathering Moss_](http://www.goodreads.com/book/show/87040.Gathering_Moss). As the focus of our show this week, _Braiding Sweetgrass_ informed our conversations about the interweaving of the traditional knowledges of science, ecology, and the teaching of plants.

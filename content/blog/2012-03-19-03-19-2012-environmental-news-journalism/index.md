@@ -5,6 +5,7 @@ tags:
   - "environment"
   - "journalism"
   - "media"
+entryId: '1_5gdgyjgz'
 ---
 
 ![](images/IHIH_March19_EnvironmentalJournalism1.jpg)

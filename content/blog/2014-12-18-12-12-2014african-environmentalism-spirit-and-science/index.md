@@ -1,6 +1,7 @@
 ---
 title: "African Environmentalism: Spirit and Science"
 date: 2014-12-18
+entryId: '1_w6tlgbwv'
 ---
 
 ![Picture](images/1851024_orig1.jpg)

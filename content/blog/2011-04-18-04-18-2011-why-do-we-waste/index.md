@@ -3,6 +3,7 @@ title: "Why do we waste?"
 date: 2011-04-18
 tags: 
   - "waste"
+entryId: '1_hlwltmff'
 ---
 
 ![Picture](images/6149977_orig1.jpg)

@@ -11,6 +11,7 @@ tags:
   - "sustainability"
   - "university-of-michigan"
   - "wcbn"
+entryId: '1_codqmhnn'
 ---
 
 ![](images/locread-large1.jpg)

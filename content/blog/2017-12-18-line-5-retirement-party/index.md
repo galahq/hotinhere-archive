@@ -2,6 +2,7 @@
 title: "Line 5 Retirement Party!"
 date: 2017-12-18
 coverImage: "Line-5.jpg"
+entryId: '1_z5svbcqn'
 ---
 
 Scrolling through his email thread, regular host Ben Sonnega was startled to see the headline _Line 5 Retirement Party!_ Is the pipeline finally being shut down for good? Time to investigate.

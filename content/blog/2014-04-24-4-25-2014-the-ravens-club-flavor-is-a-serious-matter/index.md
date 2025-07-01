@@ -10,6 +10,7 @@ tags:
   - "localization"
   - "recycling"
 coverImage: "9253661_orig11.png"
+entryId: '1_2lup0pwz'
 ---
 
 ![Picture](images/45763711.png) 

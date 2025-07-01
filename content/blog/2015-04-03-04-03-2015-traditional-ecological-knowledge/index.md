@@ -4,6 +4,7 @@ date: 2015-04-03
 tags: 
   - "indigenous-knowledge"
   - "policy"
+entryId: '1_vdk3i70s'
 ---
 
 ![Picture](images/14286850141.jpg)

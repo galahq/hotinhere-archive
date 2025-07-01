@@ -14,6 +14,7 @@ tags:
   - "the-beatles"
   - "wcbn"
   - "weird-al-yankovic"
+entryId: '1_333sewsp'
 ---
 
 In this week’s episode co-hosts _Chris Askew-Merwin_ and _Malavika Sahai_ talk food and power, with a focus on corporate control over the food industry. This conversation is based on an interview we air between Malavika and guest _Phil Howard_ from Michigan State University, a professor and sociologist studying food markets and food systems. He has a new book out, entitled _Concentration and Power in the Food System: Who Controls What We Eat?_, and is perhaps most famous for his widely-circulated [infographics](https://msu.edu/~howardp/infographics.html) about concentration of ownership in the food system. They talk taking back power through consumer purchasing power and sustainable movements in pre-existing markets.

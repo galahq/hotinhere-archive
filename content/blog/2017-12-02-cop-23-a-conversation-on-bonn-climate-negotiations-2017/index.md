@@ -2,6 +2,7 @@
 title: "COP 23: A Conversation on Bonn Climate Negotiations 2017"
 date: 2017-12-02
 coverImage: "COP23-Assembly-Hall.jpg"
+entryId: '1_22b1ihpm'
 ---
 
 As tensions grow surrounding the U.S. pullout from the 2015 UN Paris Climate Agreement, keeping up to date on the latest negotiations is of the utmost importance. This week on _It's Hot In Here_ radio [Climate Blue](https://climateblue.org/) delegates to the [COP 23](https://cop23.unfccc.int/) UN Climate Conference Tyler Fitch and Chris Karounos joined regular host Ben Sonnega to report back on the sights and sounds in Bonn, Germany. The negotiations have taken place every year for the last 23 years with the goal of creating a unified vision for acting on global climate change.

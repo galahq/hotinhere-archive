@@ -8,6 +8,7 @@ tags:
   - "snre"
   - "university-of-michigan"
   - "wcbn"
+entryId: '1_dobva6b1'
 ---
 
 ![Picture](images/15644621.jpg)

@@ -1,6 +1,7 @@
 ---
 title: "EJOLT: Environmental Justice Organisations, Liability, and Trade"
 date: 2014-04-11
+entryId: '1_2x4ax8ju'
 ---
 
 ![Picture](images/7632115_orig1.jpg)

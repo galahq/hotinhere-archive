@@ -11,6 +11,7 @@ tags:
   - "renewables"
   - "solar-energy"
 coverImage: "solar.jpg"
+entryId: '1_7vgghpbw'
 ---
 
 Returning champions Meg, Logan, and Aurora discuss local ballot initiatives across the U.S. including carbon emissions fees in Washington, proactive water pollution prevention in Montana, fish protections in Alaska, a Floridian combo bill that intertwines vaping and off-shore drilling, and more! As an added bonus, the crew unveils their Halloween costumes for this year—and Aurora’s is quite chilling.

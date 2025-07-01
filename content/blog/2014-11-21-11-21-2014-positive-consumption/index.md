@@ -1,6 +1,7 @@
 ---
 title: "Positive Consumption"
 date: 2014-11-21
+entryId: '1_zkpxjzd2'
 ---
 
 ![Picture](images/5767506_orig1.png)

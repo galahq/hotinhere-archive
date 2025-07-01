@@ -9,6 +9,7 @@ tags:
   - "un"
   - "unfccc"
 coverImage: "Poland.png"
+entryId: '1_vtri48su'
 ---
 
 Ever wonder what actually goes on at an annual international climate change conference? Alexa White doesn't. That's because she's attended the United Nations Framework Convention on Climate Change Conference of Parties (UNFCCC-COP) not once, but twice. She attended the 2015 talks in Paris, France _and_ the ones that were held this month in Katowice, Poland. White is a second-year Ecology and Evolutionary Biology Ph.D. student. She was sent as a representative of the University of Michigan's student delegation, organized by SEAS Professor Avik Basu.<!--more-->

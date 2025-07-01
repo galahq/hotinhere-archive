@@ -4,6 +4,7 @@ date: 2015-06-12
 tags: 
   - "ann-arbor"
   - "music"
+entryId: '1_9lwlh50e'
 ---
 
 ![Picture](images/4344286_orig1.jpg)

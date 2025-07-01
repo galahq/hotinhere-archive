@@ -5,6 +5,7 @@ tags:
   - "activism"
   - "environmental-justice"
   - "health"
+entryId: '1_26eug2qv'
 ---
 
 ![Picture](images/27103421.jpg)

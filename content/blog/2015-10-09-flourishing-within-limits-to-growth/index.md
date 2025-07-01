@@ -7,6 +7,7 @@ tags:
   - "environment"
   - "sustainability"
 coverImage: "2922232_orig.jpg"
+entryId: '1_fq03ugjc'
 ---
 
 This week we are on the phone with **Dr. Brian D. Fath**, professor in the Department of Biological Sciences at Towson University, and a major contributor to the newly published book, [_Flourishing Within Limits to Growth: Following nature's way_](https://books.google.com/books?id=6QcXCgAAQBAJ&pg=PR1&lpg=PR1&dq=flourishing+within+limits+to+growth&source=bl&ots=MhDX3BuDZ9&sig=6qLKRFHeiDDfhdk9LoBh3YFpDSA&hl=en&sa=X&ved=0CCgQ6AEwAWoVChMIvv-11OC6yAIVAVQ-Ch391QIH#v=onepage&q=flourishing%20within%20limits%20to%20growth&f=false). We are joined in the studio by **Joey Zhouyuan Li**, a Ph.D student in the School of Environment at Tsinghua University, China, who is currently a visiting scholar at Towson under **Professor Fath**. We also welcome two new additions to the IHIH team: first-year SNRE master's students **Alex Truelove** and **Ed Waisanen**. **Alex** recently transitioned to SNRE from a career in music and is studying Sustainable Systems at SNRE. **Ed** is an Ann Arbor native who has recently returned to Michigan to study Environmental Policy and Planning.

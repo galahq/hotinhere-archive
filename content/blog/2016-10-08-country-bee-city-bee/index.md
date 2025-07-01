@@ -2,6 +2,7 @@
 title: "Country Bee, City Bee"
 date: 2016-10-08
 coverImage: "don-bee-beard-plonski.jpg"
+entryId: '1_tzm7xy24'
 ---
 
 On this week's episode of It's Hot in Here, Rebecca Hardin and Malavika Sahai sit down with Don Shump of the [Philadelphia Bee Company](http://philadelphiabee.com/) to discuss traditional and urban beekeeping practices, as well as the challenges beekeepers face in this day and age.[![philadelphia-bee-company-logo](images/PHILADELPHIA-BEE-COMPANY-LOGO.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/10/PHILADELPHIA-BEE-COMPANY-LOGO.jpg)

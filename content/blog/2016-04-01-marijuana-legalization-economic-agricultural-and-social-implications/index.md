@@ -2,6 +2,7 @@
 title: "Marijuana Legalization:  Economic, Agricultural and Social Implications"
 date: 2016-04-01
 coverImage: "71149302_71d9f07bce_o.jpg"
+entryId: '1_yo1mbsdg'
 ---
 
 Our hosts managed to sneak past the wild animals to preview Ann Arbor’s infamous cannabis legalization rally / public party, Hash Bash.

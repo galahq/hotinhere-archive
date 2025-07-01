@@ -8,6 +8,7 @@ tags:
   - "music"
   - "snre"
   - "wcbn"
+entryId: '1_wcpipsxe'
 ---
 
 ![Picture](images/8762780_orig1.jpg)

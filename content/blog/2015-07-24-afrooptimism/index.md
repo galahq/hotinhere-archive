@@ -4,6 +4,7 @@ date: 2015-07-24
 tags: 
   - "africa"
   - "kenya"
+entryId: '1_xnz47546'
 ---
 
 ![Picture](images/7897624_orig1.jpg)
