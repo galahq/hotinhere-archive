@@ -5,7 +5,7 @@ categories:
   - "its-hot-out-there"
 ---
 
-\[embed\]https://www.youtube.com/watch?v=Gcsz5Z0afco\[/embed\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Gcsz5Z0afco?si=sktQ0wXKfwdL71dv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 With the first segment in our New Series, It's Hot Out There, Harry Rice interviews SNRE and Ross School of Business Masters Student, Matt Gacioch. This interview is a continuation of our show on beer last Friday, and Matt's experience at [Short's Brewing](https://www.shortsbrewing.com), [Left Hand Brewing](http://lefthandbrewing.com), and the [Brewer's Association](https://www.brewersassociation.org) provide more great insight on the industry, much of which we did not cover in last week's episode.
 

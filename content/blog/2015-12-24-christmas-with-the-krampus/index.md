@@ -5,7 +5,7 @@ categories:
   - "its-hot-out-there"
 ---
 
-\[embed\]https://youtu.be/AH27LEFtbiA\[/embed\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AH27LEFtbiA?si=T287h9ojZL2hbU84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [![IMG_2738](images/IMG_2738-e1450929682225-225x300.jpg)](http://www.hotinhere.us/wp-content/uploads/2015/12/IMG_2738.jpg)
 

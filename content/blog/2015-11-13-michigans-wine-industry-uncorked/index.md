@@ -26,10 +26,10 @@ Both agreed with our guests from [last week's show on Craft Beers](http://www.ho
 
 To enjoy the very best of the 1.4 million gallons of wine annually produced in Michigan right now, you can stop into a concept local wine bar linked with Black Star, the [Vin Bar](http://www.vinbara2.com/) in downtown Ann Arbor. It recently opened, to complement  Ann Arbor's longer standing wine bar, [Vinology](http://vinologya2.com/).  What will you find? Most Michigan wines are classified under vinifera varieties;  think Chardonnay, Riesling, Pinot Noir, Pinot Grigio/Gris and Cabernet Franc. In fact since 1997, 90% of the new plantings in Michigan have been vinifera. Lee notes that Michigan is growing more and more Pinot Noir, despite some of the viticultural challenges associated with our humid region.  That should please a connoisseur like Paul Giamatti's character  in the film Sideways, which actually created an uptick in Pinot sales! 
 
-\[embed\]https://www.youtube.com/watch?v=QCS1Gnwbtp0\[/embed\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QCS1Gnwbtp0?si=bz7LDgDDyz2NcA6V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 If that clip didn't leave quite the right finish on your palate,  try the more robust  "Peeno Noir" music video from Unbreakable Kimmy Schmidt:
 
-\[embed\]https://www.youtube.com/watch?v=A6yttOfIvOw\[/embed\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A6yttOfIvOw?si=_fYMMqQ-eoiHggCN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Sure, fun and games can come along with drinking,  but remember to drink responsibly and "Please, Drink Sustainably." We'll tell you even more about how on Friday November 20 in our last segment of this series, on distilled spirits. Until then, be on the lookout for our second segment of [It's Hot Out There,](https://www.youtube.com/watch?v=Gcsz5Z0afco) and if you missed the first installment, see it. We shot it live at [ABC,](http://www.arborbrewing.com/) the brewpub that started it all in our town.  Keep it hot (this is our year: 65 degrees at the time of this writing on Sunday November 15 ?!?!)  and keep it locked on WCBN FM, Ann Arbor.

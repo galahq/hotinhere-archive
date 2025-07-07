@@ -11,7 +11,7 @@ tags:
   - "stewardship"
 ---
 
-\[embed\]https://www.youtube.com/watch?v=F5qFPIZGbAM&feature=youtu.be\[/embed\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F5qFPIZGbAM?si=KMQVup9_cbt7-WSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This week's It's Hot Out There segment features an exclusive interview with [Wallowa Resources](http://www.wallowaresources.org/) Executive Director Nils Christoffersen. Our guest visited the School of Natural Resources and Environment for the [Wyss Speaker Series](http://www.snre.umich.edu/events/wyss_speaker_series_20_years_of_communitybased_conservation_in_the_american_west) to share his experiences with community based conservation in the American West.  Nils shared the Bundy militia standoff in Oregon as an example of how these conflicts represent the broader tensions between conservation and communities in the West.  Wallowa Resources has been working to provide communities with an alternative process for community-based management that helps overcome these conflicts.  With the final militia men turning themselves in on February 11th, this interview comes at an extremely relevant time.<!--more-->
 

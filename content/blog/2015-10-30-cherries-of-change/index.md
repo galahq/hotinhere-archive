@@ -41,7 +41,7 @@ Not that demand for cherries is decreasing. Researchers have found that tart ch
 
 Closing conversations between Dr. Fischer, her students in studio, and her colleagues from cherry producing  communities showcase the power of experiential learning for creating better connections and resources for collaboration.  We may not be able to control the weather (ask Ann Arbor native Mayer Hawthorne, below, about that!), but we can work faster and better together to understand and respond to it.
 
-\[embed\]https://www.youtube.com/watch?v=JYHYAwvdHzY\[/embed\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JYHYAwvdHzY?si=ezvI7RTcgFGsxbKz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 While production has been decreasing and the stakes have never been higher,  there are still plenty of cherry jams to go around. The last song on the turntables is the wonderful Neil Diamond’s Cherry Cherry.
 
