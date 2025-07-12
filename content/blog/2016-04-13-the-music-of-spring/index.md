@@ -13,4 +13,4 @@ This week’s episode features three University of Michigan music students discu
 
 After the live broadcast, we were able to record Taya playing another piece from her repertoire. As a bonus, you can listen to that here:
 
-\[audio mp3="http://www.hotinhere.us/wp-content/uploads/2016/04/taya-piece.mp3"\]\[/audio\]
+<iframe src="http://www.hotinhere.us/wp-content/uploads/2016/04/taya-piece.mp3" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

@@ -15,6 +15,6 @@ Shan then moved from the hot seat to the host seat with the arrival of Jeff Pitu
 
 We were interested to hear from Jeff how MUFI is able to operate as a 100% volunteer organization with no large-scale funding.  It turns out that small targeted grants and a knack for winning Facebook liking competitions (their [Facebook group](https://www.facebook.com/MichiganUrbanFarmingInitiative/) has more likes than ours), make up the majority of their funding.  We discussed the challenges and opportunities that arise when operating entirely with volunteers.  We also discussed their challenges remaining in place in an area undergoing “redevelopment.”
 
-This week we listened to some great Detroit music, including The Dramatics, whose message "Whatcha See is Whatcha Get" describes IHIH perfectly (as long as change the word _see_ to _hear__)..._
+This week we listened to some great Detroit music, including The Dramatics, whose message "Whatcha See is Whatcha Get" describes IHIH perfectly (as long as you change the word _see_ to _hear_)...
 
 <iframe src="https://www.youtube.com/embed/R57C-9IOBmM" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

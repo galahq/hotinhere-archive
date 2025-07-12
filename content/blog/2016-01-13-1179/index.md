@@ -14,7 +14,8 @@ We are sitting in the Sweetwaters Cafe on Ashley one winter afternoon in 2013, w
 
 Within her first weeks here, we had tossed out that question. Conservation, in many parts of the African continent, had already become, or was becoming, a war. But could someone whose career was built on a mix of bravery, visual acuity and a strong sense of poignant context in photography become a filmmaker? Of course she had the right skill set for capturing footage and functioning in those contexts. But there were other, troubling questions: could she do justice to these very complex issues in a compelling narrative film arc? And could she attend to the cruel contradictions of armed conservation today?
 
-> [![DSCF2685](images/DSCF2685-300x182.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/01/DSCF2685.jpg) This piece by Christian Gonzenbach, himself from Geneva, is entitled "Safari." It reminds us of the violence embedded not only in poaching (variously defined) but also in perfectly legal leisure pursuits, like trophy hunting. Hardin took this photo during a visit to the [Musee de la Chasse et de la Nature in Paris,](http://www.chassenature.org/) which showcases artists working on these themes.
+> [![DSCF2685](images/DSCF2685-300x182.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/01/DSCF2685.jpg)
+>  This piece by Christian Gonzenbach, himself from Geneva, is entitled "Safari." It reminds us of the violence embedded not only in poaching (variously defined) but also in perfectly legal leisure pursuits, like trophy hunting. Hardin took this photo during a visit to the [Musee de la Chasse et de la Nature in Paris,](http://www.chassenature.org/) which showcases artists working on these themes.
 
 Kate  had been a contributing cinematographer on the multi award winning feature documentary film [The Boxing Girls of Kabul](http://www.katebrooks.com/doc-film--the-boxing-girls-of-kabul/). She had fallen in love with the medium. She wondered: could the University of Michigan offer seed funding for her film idea on wildlife wars, with both boots on the ground and book smarts? Go Blue. Can do.
 
@@ -22,11 +23,11 @@ Kate was the Knight Wallace’s Ford transportation, technology and environment 
 
 <iframe width="480" height="270" src="https://www.kickstarter.com/projects/1804540752/the-last-animals/widget/video.html" frameborder="0" scrolling="no"></iframe>
 
-Fast forward to September 2013 :Kate has  just completed several rounds of meetings in NY, DC and London where she searched  for a production partner and prepared field expeditions to Chad. Rebecca meets her Paris and suggests she photograph the magnificent elephants at the National Museum of Natural History in Paris. We are also interview personnel and scholars there about challenges of keeping ivory safe in a world where museums are increasingly broken into and the valuable tusks stolen.
+Fast forward to September 2013: Kate has  just completed several rounds of meetings in NY, DC and London where she searched  for a production partner and prepared field expeditions to Chad. Rebecca meets her Paris and suggests she photograph the magnificent elephants at the National Museum of Natural History in Paris. We are also interview personnel and scholars there about challenges of keeping ivory safe in a world where museums are increasingly broken into and the valuable tusks stolen.
 
 During our visit to the famous [Deyrolle taxidermy shop](http://www.deyrolle.com/) we realize grimly that no more real ivory is on display there; too risky. They only display fake tusks made of resins and composites. But some personnel of Deyrolle have recently travelled to Congo (Brazzaville) to create partnerships with field conservation efforts. They feel hopeful that forest elephants, at least, may still exist in the wild for some time in larger numbers, despite the decimation of their savannah-dwelling kindred. Once back outside the dimly lit galleries and brightly lit shops Kate and I drink to that hope; we huddle under outdoor heaters at cafes with hot wine to fortify us against the wet wind. Kate talks of further obstacles to getting the film finished, and we part ways with the hope that, somehow, she will.
 
-[![100_2410](images/100_2410-300x225.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/01/100_2410.jpg)
+> [![100_2410](images/100_2410-300x225.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/01/100_2410.jpg)
 
 > Photograph by UM graduate Hannah Drews; see http://www.hannahdrewsphotography.com/
 

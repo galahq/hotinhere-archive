@@ -21,7 +21,7 @@ Banner Moments, an exhibit celebrating the bicentennial of the U.S. National Ant
 
 ![Picture](images/67191301.jpg)
 
-Special guest Mark Clague and co-host Dave Clive listening to some psychedelic rock brought in by Dr. Clague for theshow
+Special guest Mark Clague and co-host Dave Clive listening to some psychedelic rock brought in by Dr. Clague for the show
 
 * * *
 
