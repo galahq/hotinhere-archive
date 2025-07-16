@@ -11,7 +11,8 @@ entryId: '1_7qrgaobl'
 
 _Editor's note: We had some brief technical difficulties during the first minute of the show._ 
 
-\[caption id="attachment\_2374" align="alignleft" width="300"\][![](images/1025191309f-300x225.jpg)](https://hotinhere.us/wp-content/uploads/2019/10/1025191309f.jpg) Brittany Turner in the WCBN studio.\[/caption\]
+[![](images/1025191309f-300x225.jpg)](https://hotinhere.us/wp-content/uploads/2019/10/1025191309f.jpg)
+Brittany Turner in the WCBN studio.
 
 [Brittany Turner](https://www.cheyannesymone.com/pages/who-is-she-who-are-we) is the founder of [Cheyanne Symone,](https://www.cheyannesymone.com/) a jewelry company based in Ypsilanti that specializes in handcrafted, indigenous-style earrings. She's also an energy analyst at [EcoWorks Detroit](https://www.ecoworksdetroit.org) and a graduate of the University of Michigan's School for Environment and Sustainability. Turner joined hosts Bella Isaacs and Meg Czerwinksi to talk about how she factors social justice and environmental sustainability into her business, her identity as a Native woman of the Haliwa-Saponi Tribe, how an experience at science camp sparked her interest in energy, and much more.
 

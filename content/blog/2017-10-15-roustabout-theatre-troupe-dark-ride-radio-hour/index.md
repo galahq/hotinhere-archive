@@ -7,7 +7,7 @@ entryId: '1_9mzloihe'
 
 On this eerie Friday the 13th in the WCBN-FM studio, Roustabout Theatre's _Joe Zettelmaier_ and _Anna Simmons_ join host _Ben Sonnega_ for a chat about the troupe's latest production, the hilarious and haunting Dark Ride Radio Hour.
 
-\[caption id="attachment\_1738" align="alignnone" width="261"\][![](images/FullSizeRender-1-261x300.jpg)](http://www.hotinhere.us/wp-content/uploads/2017/10/FullSizeRender-1.jpg) Host Ben Sonnega, Anna Simmons, and Joe Zettelmaier\[/caption\]
+[![](images/FullSizeRender-1-261x300.jpg)](http://www.hotinhere.us/wp-content/uploads/2017/10/FullSizeRender-1.jpg) Host Ben Sonnega, Anna Simmons, and Joe Zettelmaier
 
 Joseph Zettelmaier is executive director of Roustabout Theatre and is an award-winning playwright with over 20 professional productions to his name. He’s taught at Eastern Michigan University for over a decade and been produced locally and internationally. Joseph Albright is a professional actor and director, appearing both on stage and on screen. He’s also been the Theatre Director at Ypsilanti’s Corner Health Center for many years. Anna is managing director for Roustabout and currently works at the University Musical Society.
 

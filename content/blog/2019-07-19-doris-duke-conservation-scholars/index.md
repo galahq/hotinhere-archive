@@ -14,7 +14,8 @@ Samara Almonte and Jazlyn Marcos are with the University of Michigan's [Doris D
 
 <!--more-->
 
-\[caption id="attachment\_2365" align="alignleft" width="225"\][![](images/Jazlyn-225x300.jpg)](https://hotinhere.us/wp-content/uploads/2019/07/Jazlyn.jpg) Above, Jazlyn Marcos.\[/caption\]
+[![](images/Jazlyn-225x300.jpg)](https://hotinhere.us/wp-content/uploads/2019/07/Jazlyn.jpg)
+Above, Jazlyn Marcos.
 
 Samara and Jazlyn joined host Bella Isaacs to talk about their experiences with the Doris Duke program and what brought them to the field of environmental studies. Jazlyn broke down the sustainable and ethical fashion movement and why there's an overwhelming lack of transparency when it comes to the supply chains of major retailers. Samara explained the theory of urban planning and why it's important to ensure that communities take the lead in planning and shaping themselves. The two also talked about their respective creative projects that blend media with important conversations around identity and environmental issues.
 

@@ -9,7 +9,8 @@ Originating in 2015, undergraduates at the University of Michigan interested in 
 
 All four members shared a variety of experiences, but one central point that brought them together seemed to be the camping trips that the fraternity offers during the academic breaks. As social chair for the fraternity, Brett spoke on the organizing of these events, but all four guests alluded to the trips as shaping experiences in the career as an environmentalist.
 
-[![](images/unnamed-1-300x199.jpg)](http://www.hotinhere.us/wp-content/uploads/2018/01/unnamed-1.jpg)If you are interested in checking out the fraternity more, click [HERE](http://www.epsilonetaumich.org/) to go to their website and [HERE](https://www.facebook.com/EpsilonEta4UM/?fref=mentions) to get to their facebook page!
+[![](images/unnamed-1-300x199.jpg)](http://www.hotinhere.us/wp-content/uploads/2018/01/unnamed-1.jpg)
+If you are interested in checking out the fraternity more, click [HERE](http://www.epsilonetaumich.org/) to go to their website and [HERE](https://www.facebook.com/EpsilonEta4UM/?fref=mentions) to get to their facebook page!
 
  
 

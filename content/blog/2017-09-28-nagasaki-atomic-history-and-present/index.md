@@ -7,7 +7,8 @@ entryId: '1_9ke45d23'
 
 The day that the United States dropped the atomic bomb on the people of Nagasaki is one that will not be forgotten in history, but do we truly understand all of the repercussions still?
 
-\[caption id="attachment\_1706" align="alignleft" width="300"\][![](images/image1-e1506106416712-300x225.jpg)](http://www.hotinhere.us/wp-content/uploads/2017/09/image1-e1506106416712.jpg) Host Ben Sonnega (Left) and guest Alex Sklyar (Right)\[/caption\]
+[![](images/image1-e1506106416712-300x225.jpg)](http://www.hotinhere.us/wp-content/uploads/2017/09/image1-e1506106416712.jpg)
+Host Ben Sonnega (Left) and guest Alex Sklyar (Right)
 
 During this week's show on _It's Hot In Here_ host _Ben Sonnega_ was joined by _Aleksandr Sklyar_, a University of Michigan PhD candidate in Sociocultural Anthropology. _Alex_ told us about the website Nagasaki Atomic History and the Present (NAHP) which he created with _Georgia Butcher_ and _Benjamin Kelsey_ last summer at Colgate University. You can access [NAHP](http://nagasaki.colgate.edu/) and see for yourself!
 
