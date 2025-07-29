@@ -42,7 +42,8 @@ In the studio, **David** first shared with us his project on sea lamprey control
 
 Later in the show, **David** talked about a new analysis tool he is developing to find leaking pipelines and help pinpoint the origin of a spill. The tool will not only map out the locations of sensitive habitat, water intake, etc., but also show an estimate of how the oil spill will travel and when it would reach open water, based on time of year.
 
-A few relevant links: [GIS: http://www.esri.com/what-is-gis](http://www.esri.com/what-is-gis) [LiDAR: http://oceanservice.noaa.gov/facts/lidar.html](http://LiDAR:%20http://oceanservice.noaa.gov/facts/lidar.html) [Quantum Spatial Inc.: https://quantumspatial.com/](https://quantumspatial.com/) [The Great Lakes Commission: http://glc.org/](http://glc.org/)And last, a studio shot:
+A few relevant links: [GIS: http://www.esri.com/what-is-gis](http://www.esri.com/what-is-gis) [LiDAR: http://oceanservice.noaa.gov/facts/lidar.html](http://LiDAR:%20http://oceanservice.noaa.gov/facts/lidar.html) [Quantum Spatial Inc.: https://quantumspatial.com/](https://quantumspatial.com/) [The Great Lakes Commission: http://glc.org/](http://glc.org/)
+And last, a studio shot:
 
 ![Picture](images/5282890_orig1.jpg)
 

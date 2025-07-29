@@ -15,7 +15,9 @@ As you may know, our show is intertwined with the Gala Platform which hosts the�
 
 <!--more-->
 
-Gala hosted its second annual Galaxy conference in June 2019. This rebroadcast was timed to give 2019 participants an idea of the 2018 events (masterfully orchestrated by home-grown environmental organizer Madi Vorva, known for her campaign successes from the tender age of 12  with the Girl Scouts to get unsustainable palm oil out of their cookies. Miss you Madi; does Cambridge University have a radio studio this hot?)[![](images/studiomadi-290x300.jpg)](https://hotinhere.us/wp-content/uploads/2019/03/studiomadi.jpg)
+Gala hosted its second annual Galaxy conference in June 2019. This rebroadcast was timed to give 2019 participants an idea of the 2018 events (masterfully orchestrated by home-grown environmental organizer Madi Vorva, known for her campaign successes from the tender age of 12  with the Girl Scouts to get unsustainable palm oil out of their cookies. Miss you Madi; does Cambridge University have a radio studio this hot?)
+
+[![](images/studiomadi-290x300.jpg)](https://hotinhere.us/wp-content/uploads/2019/03/studiomadi.jpg)
 
 This podcast is a time capsule that features the co-facilitators of Galaxy's 2019 Engaged Learning opportunity,  a Public Charette on 1,4-dioxane groundwater contamination in Ann Arbor. Working with Chemist and Curricular Innovation expert [Rachel Niemer](https://ai.umich.edu/teammember/niemer-rachel/) of UM's Academic Innovation team, Harvard's [Michaela Thompson](https://www.hks.harvard.edu/centers/mrcbg/programs/sustsci/people/research-fellows/current-fellows/michaela-thompso) and UBC's [Amanda Giang](http://ires.ubc.ca/person/amanda-giang/)  pulled together focused, creative conversations toward specs for responsively designed public information tools around Dioxane 1,4 and related contaminants in groundwater.
 

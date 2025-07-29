@@ -9,4 +9,4 @@ Tune in for an update and discussion from the first week of the 22nd session o
 
 [![cop22pic](images/COP22pic-300x225.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/11/COP22pic.jpg)
 
-From left to right: Ed, Ember, Cameron (our wizard of a producer), Malavika, and Chris
+From left to right: Ed, Ember, Cameron (our wizard of a producer), Malavika, and Chris.

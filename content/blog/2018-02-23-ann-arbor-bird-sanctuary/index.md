@@ -7,21 +7,16 @@ entryId: '1_w36sdcfx'
 
 On this episode of It's Hot In Here, Andrea Aiuto of the [Bird Center of Washtenaw County](http://birdcenterwashtenaw.org/main/) joined hosts Ben Sonnega and Bella Isaacs for a casual Friday dialogue on her current work with bird rescue and how her love of birds came about.
 
-\[caption id="attachment\_1855" align="alignleft" width="1242"\][![](images/Image-13-1.jpg)](http://www.hotinhere.us/wp-content/uploads/2018/03/Image-13-1.jpg) The Bird Sanctuary\[/caption\]
+[![](images/Image-13-1.jpg)](http://www.hotinhere.us/wp-content/uploads/2018/03/Image-13-1.jpg)
+The Bird Sanctuary
 
 The Bird Center of Washtenaw County primarily aims to aid birds, wildlife, and the environment through public education and rehabilitation. Trained staff help take in injured birds to be kept and rehabilitated at the center in Ann Arbor, as well as answer calls to help citizens learn what to do when an injured bird is spotted.
 
-\[caption id="attachment\_1856" align="alignleft" width="1242"\][![](images/Image-11.jpg)](http://www.hotinhere.us/wp-content/uploads/2018/03/Image-11.jpg) Hummingbird found in the road discussed on air!\[/caption\]
+[![](images/Image-11.jpg)](http://www.hotinhere.us/wp-content/uploads/2018/03/Image-11.jpg)
+Hummingbird found in the road discussed on air!
 
-\[caption id="attachment\_1857" align="alignleft" width="960"\][![](images/Image-6.jpg)](http://www.hotinhere.us/wp-content/uploads/2018/03/Image-6.jpg) Kingfisher whose mohawk Andrea adores.\[/caption\]
-
- 
-
- 
-
- 
-
- 
+[![](images/Image-6.jpg)](http://www.hotinhere.us/wp-content/uploads/2018/03/Image-6.jpg)
+Kingfisher whose mohawk Andrea adores.
 
 Click play now to hear Andrea talk about bird sanctuary work outside the US, how it is different and the same, and hear bird rescue stories from right here in Washtenaw County!
 

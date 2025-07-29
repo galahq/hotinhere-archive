@@ -9,7 +9,8 @@ For those that care about the mitigation of climate change, it can seem like the
 
 Noah joined Hot hosts _Ben Sonnega_ and  _Heena Singh_ today as he is starting his second-year MBA/MS graduate program at the Erb Institute. This is a dual-degree program between the Ross School of Business and School of Natural Resources and Environment. Noah is focusing his graduate studies on sustainability issues in the transportation sector. Before coming to Ann Arbor, Noah spent four years in Boston, MA working in economic consulting. Noah received his B.A. in Math and Economics from Wesleyan University in Connecticut, where he was a member of the varsity baseball team. Maybe all that hard training and teamwork makes him better able to  focus on and work toward the complex goal of green aviation?
 
-\[caption id="attachment\_1722" align="alignnone" width="300"\][![](images/image1-1-e1506708577144-300x197.jpg)](http://www.hotinhere.us/wp-content/uploads/2017/09/image1-1-e1506708577144.jpg) Left to Right: Co-hosts Heena Singh and Ben Sonnega, and Guest Noah Feingold.\[/caption\]
+[![](images/image1-1-e1506708577144-300x197.jpg)](http://www.hotinhere.us/wp-content/uploads/2017/09/image1-1-e1506708577144.jpg)
+Left to Right: Co-hosts Heena Singh and Ben Sonnega, and Guest Noah Feingold.
 
 Global aviation accounts for approximately 2 percent of global CO2 emissions (some estimates find that the impact on global warming is closer to 5 percent due to water vapor and nitrogen emissions). Strong growth in the aviation industry and decarbonization in other industries could raise the 2 percent to 5-10 percent of global CO2 emissions in the coming decades. Nevertheless, aviation groups have set a goal to reduce CO2 emissions by 2050 to 50 percent of 2005 levels. The development of sustainable aviation fuels (SAF) is critical to reaching this goal.
 

@@ -16,8 +16,11 @@ The academic conference reflected on those who have been evicted or displaced fr
 
 <!--more-->
 
-|   **[Hari M. Osofsky](mailto:hosofsky@umn.edu)** is a Professor of Law, 2014-2015 Julius E. Davis Chair in Law, Faculty Director of the Energy Transition Lab, and Director of the Joint Degree Program in Law, Science and Technology at the University of Minnesota Law School. She is also on the faculty of the Conservation Biology Graduate Program, a Professor of Geography, Environment, and Society, and a Fellow with the Institute on the Environment. **Hari** has over 50 publications on improving governance and addressing injustice in energy and climate change regulation. She was also the former President of the Association for Law, Property and Society.   |   ![Picture](images/48930691.png)       |
-| --- | --- |
+![Picture](images/48930691.png)
 
-|   ![Picture](images/78156731.png)       |   **[Thomas Mitchell](mailto:tmitchell@wisc.edu)** is a Professor of Law at the University of Wisconsin Law School, where he directs the Program in Real Estate, Land Use, and Community Development. He also teaches Property, Land Use, REmedies and a seminar course in Rural Development. He has done research and legislative work on property issues impacting poor and minority communities. **Thomas** played an integral role in the drafting of the Uniform Partition of Heirs Property Act, which has promulgated by the National Conference of Commissioners on Uniform State Laws.   |
-| --- | --- |
+**[Hari M. Osofsky](mailto:hosofsky@umn.edu)** is a Professor of Law, 2014-2015 Julius E. Davis Chair in Law, Faculty Director of the Energy Transition Lab, and Director of the Joint Degree Program in Law, Science and Technology at the University of Minnesota Law School. She is also on the faculty of the Conservation Biology Graduate Program, a Professor of Geography, Environment, and Society, and a Fellow with the Institute on the Environment. **Hari** has over 50 publications on improving governance and addressing injustice in energy and climate change regulation. She was also the former President of the Association for Law, Property and Society.
+
+![Picture](images/78156731.png)
+
+ **[Thomas Mitchell](mailto:tmitchell@wisc.edu)** is a Professor of Law at the University of Wisconsin Law School, where he directs the Program in Real Estate, Land Use, and Community Development. He also teaches Property, Land Use, REmedies and a seminar course in Rural Development. He has done research and legislative work on property issues impacting poor and minority communities. **Thomas** played an integral role in the drafting of the Uniform Partition of Heirs Property Act, which has promulgated by the National Conference of Commissioners on Uniform State Laws.
+ 

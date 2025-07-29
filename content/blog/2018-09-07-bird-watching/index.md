@@ -24,6 +24,4 @@ _Hits include:_<!--more-->
 
 Also, new music from Shigeto
 
-\[embed\]https://www.youtube.com/watch?v=6\_deKF1IvfM\[/embed\]
-
 _Banner image by [Elvert Barnes](https://www.flickr.com/photos/perspective)_

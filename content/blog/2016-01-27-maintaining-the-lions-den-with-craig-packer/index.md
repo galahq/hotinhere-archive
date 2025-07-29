@@ -6,7 +6,7 @@ categories:
 coverImage: "Screen-Shot-2016-01-24-at-7.46.18-PM.png"
 ---
 
-\[embed\]https://www.youtube.com/watch?v=rNMI-8nwt1E\[/embed\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rNMI-8nwt1E?si=C1csRVVskxoC6zR5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This week's It's Hot Out There brings [Craig Packer](http://cbs.umn.edu/contacts/craig-packer-0), conservation ecologist and professor at the University of Minnesota, into our den. Though given his expertise on lions, this segment may be better characterized as within his den and not ours. We caught up with Craig on his visit to the School of Natural Resources and Environment, where he discussed the keys behind [conservation ecology](http://www.snre.umich.edu/events/conservation_ecology_lecture_series_seminar_with_craig_packer) in Africa.
 

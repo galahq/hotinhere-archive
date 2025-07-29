@@ -5,7 +5,7 @@ categories:
   - "its-hot-out-there"
 ---
 
-\[embed\]https://www.youtube.com/watch?v=foLxNug6CcI\[/embed\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/foLxNug6CcI?si=8kXxvSEPz4PQ6k2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 In this week’s _It's Hot Out There_ segment we sit down with banjo-wielding, Academy Award nominated director, Josh Fox, who presented his film [Gasland](http://www.gaslandthemovie.com/) at the University of Michigan's Rackham Auditorium last week.
 

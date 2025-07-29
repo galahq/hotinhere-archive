@@ -6,7 +6,7 @@ categories:
 coverImage: "MLK-landingpage.jpg"
 ---
 
-\[embed\]https://www.youtube.com/watch?v=Rt6A0zycDf4\[/embed\]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rt6A0zycDf4?si=LJ09wiNxhVdmoBz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This segment of It's Hot Out There features Aaron Mair, the President of the Sierra Club. Aaron visited the School of Natural Resources and Environment  on MLK Day as a part of the university-wide celebration of the late, great Martin Luther King, Jr. Our exclusive interview with him complements our [show](http://www.hotinhere.us/podcast/1210/) on "Diversity in Environmental Organizations" as his election on May 16, 2015 to the post of President of the Sierra Club marks a first for an African American in the history of that organization.
 

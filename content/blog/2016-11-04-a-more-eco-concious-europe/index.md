@@ -4,7 +4,11 @@ date: 2016-11-04
 entryId: '1_ojn05tbl'
 ---
 
-On today's episode of It's Hot In Here, Rebecca is joined in the studio by Ajay Varadharajan, a graduate of UM's School of Natural Resources and Environment, now founder and CEO of [Green Insights in Amsterdam.]("http://www.greeninsights.org/#home)  Ajay and his company are helping businesses and consumers asses their environmental impact and improve their carbon footprint.[![14449721_10154623876778711_5028685342049967464_n](images/14449721_10154623876778711_5028685342049967464_n.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/11/14449721_10154623876778711_5028685342049967464_n.jpg) Rebecca, Ajay, and guest host [Leanna Hosea](https://www.youtube.com/watch?v=yCbabTU43JI) discuss global coffee trade, competing viewpoints on sustainability, and the development of his carbon tracking apps like [GreenSwapp.com](https://greenswapp.com/)
+On today's episode of It's Hot In Here, Rebecca is joined in the studio by Ajay Varadharajan, a graduate of UM's School of Natural Resources and Environment, now founder and CEO of [Green Insights in Amsterdam.]("http://www.greeninsights.org/#home)  Ajay and his company are helping businesses and consumers asses their environmental impact and improve their carbon footprint.
+
+[![14449721_10154623876778711_5028685342049967464_n](images/14449721_10154623876778711_5028685342049967464_n.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/11/14449721_10154623876778711_5028685342049967464_n.jpg)
+
+Rebecca, Ajay, and guest host [Leanna Hosea](https://www.youtube.com/watch?v=yCbabTU43JI) discuss global coffee trade, competing viewpoints on sustainability, and the development of his carbon tracking apps like [GreenSwapp.com](https://greenswapp.com/)
 
 We also sample Ghislain Dubois who [came into the studio last summer](http://www.hotinhere.us/podcast/carbon-confidential-calculating-and-changing-our-footprints/) for "Carbon Confidential," a discussion of his environmental consulting company [TEC, based in Marseille](http://www.tec-conseil.com/).  Along the way, Ghislain introduced us to a master sampler, the DJ and artist Goldenberg and Schmuyle, whose track "tout, tout, et tout" reminded all of us at IHIH of our own efforts (je melange tout...i mix everything together). Check out his video [Zazou Bar](https://vimeo.com/105095480?ref=fb-share&1) for an "electric" hit of the Marseille culture Ghislain describes in the neighborhoods around his consulting company's office.
 

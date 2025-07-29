@@ -31,7 +31,13 @@ Finally, our show features an interview with Dr. Jatin Dua, a socio-cultural ant
 
 **Adam Roberts,** [**Born Free USA**](http://www.bornfreeusa.org/index.php)
 
-[![2. Adam Roberts](images/2.-Adam-Roberts.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/01/2.-Adam-Roberts.jpg) Adam Roberts was named CEO of [Born Free USA](https://www.facebook.com/BornFreeUSA) in 2014, after holding the position of Executive Vice President since helping launch the organization’s American branch in 2002. Adam has significant expertise and more than two decades experience in international wildlife trade an[![BFF 05 trophy.ai](images/2.-Born-Free-USA-Logo-300x156.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/01/2.-Born-Free-USA-Logo.jpg)d captive wild animals. He also serves on the board of the [Species Survival Network](http://www.ssn.org/) (SSN) and is current chairman of the board of the [Global Federation of Animal Sanctuaries](http://www.sanctuaryfederation.org/gfas/), a nonprofit organization dedicated to developing species-specific humane standards of care for animals held in sanctuaries. Adam has written more than fifty articles for various medical, legal, scientific and advocacy organization publications. He also writes a monthly [blog](http://www.bornfreeusa.org/bfusablog.php).
+[![2. Adam Roberts](images/2.-Adam-Roberts.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/01/2.-Adam-Roberts.jpg)
+
+Adam Roberts was named CEO of [Born Free USA](https://www.facebook.com/BornFreeUSA) in 2014, after holding the position of Executive Vice President since helping launch the organization’s American branch in 2002. Adam has significant expertise and more than two decades experience in international wildlife trade and captive wild animals.
+
+[![BFF 05 trophy.ai](images/2.-Born-Free-USA-Logo-300x156.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/01/2.-Born-Free-USA-Logo.jpg)
+
+He also serves on the board of the [Species Survival Network](http://www.ssn.org/) (SSN) and is current chairman of the board of the [Global Federation of Animal Sanctuaries](http://www.sanctuaryfederation.org/gfas/), a nonprofit organization dedicated to developing species-specific humane standards of care for animals held in sanctuaries. Adam has written more than fifty articles for various medical, legal, scientific and advocacy organization publications. He also writes a monthly [blog](http://www.bornfreeusa.org/bfusablog.php).
 
 **Dr. Meredith Gore, Michigan State University**
 
@@ -41,7 +47,9 @@ Dr. Meredith Gore is an assistant professor in the [Department of Fisheries and 
 
 **Dr. Jatin Dua, The University of Michigan**
 
-[![4. Jatin Dua](images/4.-Jatin-Dua-300x282.jpeg)](http://www.hotinhere.us/wp-content/uploads/2016/01/4.-Jatin-Dua.jpeg)Dr. Jatin Dua is an Assistant Professor of Anthropology at the University of Michigan, whose research focuses on maritime piracy in the Indian Ocean and projects and processes of governance, law, and economy along the East African coast. Dr. Dua’s current book project explores maritime piracy in the Western Indian Ocean within frameworks of protection, risk, and regulation by moving between worlds of coastal communities in northern Somalia, maritime insurance adjustors in London, and the global shipping industry.
+[![4. Jatin Dua](images/4.-Jatin-Dua-300x282.jpeg)](http://www.hotinhere.us/wp-content/uploads/2016/01/4.-Jatin-Dua.jpeg)
+
+Dr. Jatin Dua is an Assistant Professor of Anthropology at the University of Michigan, whose research focuses on maritime piracy in the Indian Ocean and projects and processes of governance, law, and economy along the East African coast. Dr. Dua’s current book project explores maritime piracy in the Western Indian Ocean within frameworks of protection, risk, and regulation by moving between worlds of coastal communities in northern Somalia, maritime insurance adjustors in London, and the global shipping industry.
 
  
 
@@ -49,12 +57,18 @@ Dr. Meredith Gore is an assistant professor in the [Department of Fisheries and 
 
 **Michael Burbidge**
 
-[![5. Mike](images/5.-Mike.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/01/5.-Mike.jpg)Mike is a master’s student at the School of Natural Resources and Environment in the environmental justice track.  His research interests involve issues involved with the management of protected areas on the African continent, primarily illegal wildlife trade and human-wildlife conflict.  Previous to attending SNRE he was an Agroforestry Peace Corp Volunteer in the East of Cameroon.
+[![5. Mike](images/5.-Mike.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/01/5.-Mike.jpg)
+
+Mike is a master’s student at the School of Natural Resources and Environment in the environmental justice track.  His research interests involve issues involved with the management of protected areas on the African continent, primarily illegal wildlife trade and human-wildlife conflict.  Previous to attending SNRE he was an Agroforestry Peace Corp Volunteer in the East of Cameroon.
 
 **Claire Poelking**
 
-[![6. Claire](images/6.-Claire.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/01/6.-Claire.jpg)Claire is a master’s student at the School of Natural Resources and Environment in the environmental justice and environmental informatics tracks.  Her research focuses on shared landscapes between humans and wildlife, primarily in the East African context.  Before attending the SNRE she worked as a GIS Analyst for an environmental consulting firm and as field researcher for the Bioko Biodiversity Protection Program in Equatorial Guinea.
+[![6. Claire](images/6.-Claire.jpg)](http://www.hotinhere.us/wp-content/uploads/2016/01/6.-Claire.jpg)
+
+Claire is a master’s student at the School of Natural Resources and Environment in the environmental justice and environmental informatics tracks.  Her research focuses on shared landscapes between humans and wildlife, primarily in the East African context.  Before attending the SNRE she worked as a GIS Analyst for an environmental consulting firm and as field researcher for the Bioko Biodiversity Protection Program in Equatorial Guinea.
 
 **Katie Browne**
 
-[![7. Katie](images/7.-Katie.png)](http://www.hotinhere.us/wp-content/uploads/2016/01/7.-Katie.png)Katie Browne is a recent graduate of the School of Natural Resources and Environment and an increasingly frequent contributor to It’s Hot in Here. When she isn’t in Gabon, Katie produces podcasts in conjunction with “Michigan Sustainability Cases” on topics of climate change and climate justice, conservation, and nonprofit management. Before coming to Michigan, Katie served three years with the Peace Corps in Madagascar. She is from one of the two Carolinas; which one depends on the day you ask.
+[![7. Katie](images/7.-Katie.png)](http://www.hotinhere.us/wp-content/uploads/2016/01/7.-Katie.png)
+
+Katie Browne is a recent graduate of the School of Natural Resources and Environment and an increasingly frequent contributor to It’s Hot in Here. When she isn’t in Gabon, Katie produces podcasts in conjunction with “Michigan Sustainability Cases” on topics of climate change and climate justice, conservation, and nonprofit management. Before coming to Michigan, Katie served three years with the Peace Corps in Madagascar. She is from one of the two Carolinas; which one depends on the day you ask.

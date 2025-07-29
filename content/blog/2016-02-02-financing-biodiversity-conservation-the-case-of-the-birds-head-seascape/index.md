@@ -20,10 +20,14 @@ We are then joined in studio by Peter Pellitier, a student of both coral and soi
 
 ### Laure Katz
 
-[![Laure Katz Bio Photo](images/Laure-Katz-Bio-Photo-cropped-300x275.jpeg)](http://www.hotinhere.us/wp-content/uploads/2016/02/Laure-Katz-Bio-Photo-cropped.jpeg)Laure Katz is Director of the Seascapes Program at Conservation International, leading the Bird’s Head Seascape’s transition and fundraising efforts. Laure has a B.S. (Earth Systems, Oceans Track) and M.S. (Marine Ecology and Marine Policy) from Stanford, and is completing the final semester of her MBA in Global Business from the University of Virginia Darden School of Business.
+[![Laure Katz Bio Photo](images/Laure-Katz-Bio-Photo-cropped-300x275.jpeg)](http://www.hotinhere.us/wp-content/uploads/2016/02/Laure-Katz-Bio-Photo-cropped.jpeg)
+
+Laure Katz is Director of the Seascapes Program at Conservation International, leading the Bird’s Head Seascape’s transition and fundraising efforts. Laure has a B.S. (Earth Systems, Oceans Track) and M.S. (Marine Ecology and Marine Policy) from Stanford, and is completing the final semester of her MBA in Global Business from the University of Virginia Darden School of Business.
 
 ### Peter Pellitier
 
-[![Peter Pellitier](images/image-1-150x150.jpeg)](http://www.hotinhere.us/wp-content/uploads/2016/02/image-1.jpeg)Peter Pellitier is a first-year PhD student in the School of Natural Resources and Environment. After graduating from Pomona College in 2014, Peter was awarded a Fulbright research grant to travel to Kavieng, Papua New Guinea to study parrotfish diversity in coral reefs. While in Papua New Guinea, the bulk of Peter’s research shifted to understanding coral population diversity.
+[![Peter Pellitier](images/image-1-150x150.jpeg)](http://www.hotinhere.us/wp-content/uploads/2016/02/image-1.jpeg)
+
+Peter Pellitier is a first-year PhD student in the School of Natural Resources and Environment. After graduating from Pomona College in 2014, Peter was awarded a Fulbright research grant to travel to Kavieng, Papua New Guinea to study parrotfish diversity in coral reefs. While in Papua New Guinea, the bulk of Peter’s research shifted to understanding coral population diversity.
 
 _Featured Image Credit:_ © Conservation International/photo by Sterling Zumbrunn.
