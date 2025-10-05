@@ -1,5 +1,6 @@
 import os
 from urllib import request, error
+import socket
 
 
 
@@ -76,7 +77,7 @@ def check_for_links (blog_entries):
             if (character_value <= danger_zone and entry_content[character_value] == 'h' and entry_content[character_value + 1] == 't' and entry_content[character_value + 2] == 't' and entry_content[character_value + 3] == 'p'):
                 is_tracking_a_link = True
                 'checks for a fragment beginning with http and raises a flag'
-            if (is_tracking_a_link == True and entry_content[character_value] != ']' and entry_content[character_value] != ')' and entry_content[character_value] != ' ' and entry_content[character_value] != '"'):
+            if (is_tracking_a_link == True and entry_content[character_value] != ']' and entry_content[character_value] != ')' and entry_content[character_value] != ' ' and entry_content[character_value] != '"' and entry_content[character_value] != "\n"):
                 new_link += entry_content[character_value]
                 '''
                 checks for the http flag and records the content as part of a
@@ -84,7 +85,7 @@ def check_for_links (blog_entries):
                 character, preventing the link-ending character from being
                 recorded with the link before the flag is lowered
                 '''
-            if (is_tracking_a_link == True and (entry_content[character_value] == ']' or entry_content[character_value] == ')' or entry_content[character_value] == ' ' or entry_content[character_value] == '"')):
+            if (is_tracking_a_link == True and (entry_content[character_value] == ']' or entry_content[character_value] == ')' or entry_content[character_value] == ' ' or entry_content[character_value] == '"' or entry_content[character_value] == "\n")):
                 is_tracking_a_link = False
                 links.append(new_link)
                 new_link = ""
@@ -101,10 +102,27 @@ def check_for_links (blog_entries):
 
 
 '''
-A function which tries all of the collected link.
+A function which strips punctuation should it apear at the end of a link.
+'''
+def punctuation_stripper (link_list):
+    link_length = 0
+    link_last_index_position = 0
+    for link in link_list:
+        link_length = len(link)
+        link_last_index_position = link_length - 1
+        if (link[link_last_index_position] == '!' or link[link_last_index_position] == ';' or link[link_last_index_position] == ':' or link[link_last_index_position] == ',' or link[link_last_index_position] == '.' or link[link_last_index_position] == '?'):
+            link = link[0:-1]
+    return link_list
+
+
+
+'''
+A function which tries all of the collected links in a list.
 '''
 def try_links (link_list):
+    link_list = punctuation_stripper (link_list)
     number_of_successes = 0
+    number_of_links = 0
     for link in link_list:
         print(link)
         totally_a_human = request.Request(
@@ -116,9 +134,10 @@ def try_links (link_list):
         403s
         '''
         try:
-            with request.urlopen(totally_a_human):
+            number_of_links += 1
+            with request.urlopen(totally_a_human, timeout = 45):
                 number_of_successes += 1
-                print("success", number_of_successes)
+                print("Success")
         except error.HTTPError as error_code:
             if error_code.code == 404:
                 print("Error 404, the page no longer exists")
@@ -142,6 +161,17 @@ def try_links (link_list):
                 print("Http error")
         except error.URLError:
             print("Url error, page is inaccessable without a redirect")
+        except ConnectionResetError:
+            print("Connection terminated by the website, they don't want you poking around here")
+        except socket.timeout:
+            print("Timed out")
+        except Exception:
+            print("unusual error, could be an improperly formatted link")
+
+        print("Successes:", number_of_successes)
+        print("Links tried:", number_of_links)
+
+    return 0
 
 
 
@@ -150,6 +180,7 @@ A function which drives the program.
 '''
 def main ():
     list_of_all_links = []
+    number_of_links = 0
     number_of_blog_entries = 0
     blog_entries = []
     'a list of all folders inside blog'
@@ -165,9 +196,11 @@ def main ():
     print("NUMBER OF BLOG ENTRIES:")
     print(number_of_blog_entries)
     list_of_all_links = check_for_links(blog_entries)
-    print("ALL LINKS:")
+    number_of_links = len(list_of_all_links)
+    print("ALL", number_of_links, "LINKS:")
     print(list_of_all_links)
     try_links(list_of_all_links)
+    print("DONE")
 
 
 
