@@ -120,9 +120,12 @@ def punctuation_stripper (link_list):
 A function which tries all of the collected links in a list.
 '''
 def try_links (link_list):
+    number_of_errors = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    error_types = ["301", "307", "308", "400", "401", "402", "403", "404", "408", "Other http", "URL", "connection terminated", "timeout", "weird"]
     link_list = punctuation_stripper (link_list)
     number_of_successes = 0
     number_of_links = 0
+    err = 0
     for link in link_list:
         print(link)
         totally_a_human = request.Request(
@@ -141,35 +144,53 @@ def try_links (link_list):
         except error.HTTPError as error_code:
             if error_code.code == 404:
                 print("Error 404, the page no longer exists")
+                number_of_errors[7] += 1
             elif error_code.code == 301:
                 print("Error 301, the page has been moved permanently")
+                number_of_errors[0] += 1
             elif error_code.code == 307:
                 print("Error 307, the page has a temporary redirect")
+                number_of_errors[1] += 1
             elif error_code.code == 308:
                 print("Error 308, the page has a permanent redirect")
+                number_of_errors[2] += 1
             elif error_code.code == 400:
                 print("Error 400, bad request")
+                number_of_errors[3] += 1
             elif error_code.code == 401:
                 print("Error 401, unauthorized")
+                number_of_errors[4] += 1
             elif error_code.code == 402:
                 print("Error 402, payment required")
+                number_of_errors[5] += 1
             elif error_code.code == 403:
                 print("Error 403, forbidden-- could be paywalled, auto-redirect, or they know you're a bot")
+                number_of_errors[6] += 1
             elif error_code.code == 408:
                 print("Error 408, the request took too long")
+                number_of_errors[8] += 1
             else:
                 print("Http error")
+                number_of_errors[9] += 1
         except error.URLError:
             print("Url error, page is inaccessable without a redirect")
+            number_of_errors[10] += 1
         except ConnectionResetError:
             print("Connection terminated by the website, they don't want you poking around here")
+            number_of_errors[11] += 1
         except socket.timeout:
             print("Timed out")
+            number_of_errors[12] += 1
         except Exception:
             print("unusual error, could be an improperly formatted link")
-
-        print("Successes:", number_of_successes)
-        print("Links tried:", number_of_links)
+            number_of_errors[13] += 1
+    
+    print("Links tried:", number_of_links)
+    print("Successes:", number_of_successes)
+    while err < len(number_of_errors):
+        print("number of", error_types[err], ":", number_of_errors[err])
+        err += 1
+    'get this to print the number of each error using number_of_errors and error_types'
 
     return 0
 
